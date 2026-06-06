@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Test oposicions</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app">
+    <section id="config" class="card">
+      <div class="header">
+        <h1>Test oposicions</h1>
+        <p>Practica per temes, fes simulacres d’examen i repassa preguntes de convocatòries anteriors.</p>
+      </div>
+
+      <div class="form-grid">
+        <label>
+          Mode
+          <select id="mode">
+            <option value="practica">Pràctica: correcció immediata</option>
+            <option value="test">Examen: resultat al final</option>
+          </select>
+        </label>
+
+        <label>
+          Tema
+          <select id="tema"></select>
+        </label>
+
+        <label>
+          Nombre de preguntes
+          <input type="number" id="num" value="10" min="1" />
+        </label>
+      </div>
+
+      <div class="checks">
+        <label><input type="checkbox" id="shuffleQ" checked /> Barrejar preguntes</label>
+        <label><input type="checkbox" id="shuffleO" checked /> Barrejar opcions</label>
+        <label><input type="checkbox" id="oldQ" checked /> Incloure convocatòries anteriors</label>
+        <label><input type="checkbox" id="starredOnly" /> Només preguntes marcades ⭐</label>
+      </div>
+
+      <button id="startBtn" class="primary">Començar</button>
+      <p id="loadStatus" class="muted"></p>
+    </section>
+
+    <section id="quiz" class="card hidden">
+      <div class="quiz-top">
+        <div>
+          <div id="progress" class="progress"></div>
+          <div id="timer" class="timer hidden"></div>
+        </div>
+        <button id="starBtn" class="star" title="Marcar pregunta">☆</button>
+      </div>
+
+      <h2 id="question"></h2>
+      <div id="options" class="options"></div>
+
+      <button id="nextBtn" class="primary hidden">Següent</button>
+    </section>
+
+    <section id="result" class="card hidden"></section>
+  </main>
+
+  <script src="preguntes.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
