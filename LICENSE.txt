@@ -1,0 +1,28 @@
+Copyright (c) 2026 Carla Calvó-Tusell
+
+All Rights Reserved.
+
+This software and associated files (the "Software") are the intellectual
+property of Carla Calvó-Tusell.
+
+Permission is NOT granted to use, copy, modify, merge, publish, distribute,
+sublicense, sell, or otherwise redistribute this Software or any derivative
+works without prior written authorization from the copyright holder.
+
+The Software is provided for authorized educational and private use only.
+
+The following conditions apply:
+
+1. Redistribution of the Software, in whole or in part, is prohibited.
+2. Modification and redistribution of modified versions is prohibited.
+3. Commercial use is prohibited.
+4. Removal of copyright notices, attribution statements, or authorship
+   references is prohibited.
+5. Any authorized use must retain clear attribution to the original author.
+
+For permissions or licensing requests, please contact:
+
+Carla Calvó-Tusell
+https://ccalvotusell.github.io/
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.

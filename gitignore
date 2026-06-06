@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Generated files
+*.zip
+*.json
+
+# Temporary conversion outputs
+informe_validacio*.txt
+
+# Office files
+~$*.docx
+
+# Netlify
+.netlify/
+
+# Misc
+Thumbs.db
