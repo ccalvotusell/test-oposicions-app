@@ -1,1 +1,0 @@
-python3 convert_word_to_json.py test_formated.docx --out preguntes.json --js preguntes.js --report informe_validacio.txt
