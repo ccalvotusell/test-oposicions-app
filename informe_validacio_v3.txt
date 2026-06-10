@@ -1,9 +1,9 @@
 INFORME DE VALIDACIÓ
 ====================
-Preguntes totals: 610
+Preguntes totals: 808
 
 Preguntes per tema:
-- Tema 1: Desenvoalupmanet sostenible: 15
+- Tema 1: Desenvolupament sostenible: 15
 - Tema 2: Competències AAPP: 11
 - Tema 3: Avaluació ambiental estratègica: 15
 - Tema 4: Avaluació d’impacte ambiental: 9
@@ -55,8 +55,9 @@ Preguntes per tema:
 - Tema 50: 50.1_Infocat: 12
 - Tema 50: 50.2_CAMCAT: 12
 - Tema 50: 50.3_INUNCAT: 9
+- Tema 51: Convocatòries Anteriors: 198
 
-Preguntes marcades com a convocatòria anterior/cursiva: 103
+Preguntes marcades com a convocatòria anterior/cursiva: 301
 
 Errors:
 - Cap error crític detectat.
@@ -69,15 +70,63 @@ Avisos:
 - Text afegit a l'opció anterior, paràgraf 1205: ·
 
 Duplicats possibles:
-- Tema 1, pregunta 1; Tema 8, pregunta 5
-- Tema 1, pregunta 2; Tema 8, pregunta 6
-- Tema 1, pregunta 3; Tema 8, pregunta 7
-- Tema 3, pregunta 7; Tema 3, pregunta 2
-- Tema 6, pregunta 1; Tema 49, pregunta 13
-- Tema 8, pregunta 4; Tema 14, pregunta 15
+- Tema 1, pregunta 1; Tema 8, pregunta 5; Tema 51, pregunta 46
+- Tema 1, pregunta 2; Tema 8, pregunta 6; Tema 51, pregunta 48
+- Tema 1, pregunta 3; Tema 8, pregunta 7; Tema 51, pregunta 57
+- Tema 3, pregunta 2; Tema 51, pregunta 16
+- Tema 3, pregunta 3; Tema 51, pregunta 17
+- Tema 3, pregunta 4; Tema 51, pregunta 50
+- Tema 3, pregunta 5; Tema 51, pregunta 54
+- Tema 3, pregunta 6; Tema 51, pregunta 61
+- Tema 3, pregunta 7; Tema 3, pregunta 2; Tema 51, pregunta 66
+- Tema 3, pregunta 1; Tema 51, pregunta 22
+- Tema 3, pregunta 1; Tema 51, pregunta 13
+- Tema 3, pregunta 2; Tema 51, pregunta 14
+- Tema 3, pregunta 3; Tema 51, pregunta 105
+- Tema 3, pregunta 10; Tema 51, pregunta 72
+- Tema 5, pregunta 15; Tema 51, pregunta 47
+- Tema 6, pregunta 1; Tema 49, pregunta 13; Tema 51, pregunta 25
+- Tema 7, pregunta 18; Tema 51, pregunta 31
+- Tema 8, pregunta 3; Tema 51, pregunta 15
+- Tema 8, pregunta 4; Tema 14, pregunta 15; Tema 51, pregunta 44
+- Tema 8, pregunta 8; Tema 51, pregunta 67
+- Tema 11, pregunta 30; Tema 51, pregunta 43
 - Tema 12, pregunta 39; Tema 13, pregunta 10
-- Tema 12, pregunta 12; Tema 13, pregunta 12
-- Tema 12, pregunta 22; Tema 13, pregunta 13
+- Tema 12, pregunta 17; Tema 51, pregunta 30
+- Tema 12, pregunta 21; Tema 51, pregunta 34
+- Tema 12, pregunta 31; Tema 51, pregunta 101
+- Tema 12, pregunta 12; Tema 13, pregunta 12; Tema 51, pregunta 70
+- Tema 12, pregunta 13; Tema 51, pregunta 71
+- Tema 12, pregunta 22; Tema 13, pregunta 13; Tema 51, pregunta 74
+- Tema 13, pregunta 11; Tema 51, pregunta 26
+- Tema 14, pregunta 12; Tema 51, pregunta 11
+- Tema 14, pregunta 13; Tema 51, pregunta 104
+- Tema 14, pregunta 14; Tema 51, pregunta 42
+- Tema 14, pregunta 16; Tema 51, pregunta 49
+- Tema 17, pregunta 11; Tema 51, pregunta 37
+- Tema 22, pregunta 12; Tema 51, pregunta 65
+- Tema 26, pregunta 13; Tema 51, pregunta 21
+- Tema 26, pregunta 14; Tema 51, pregunta 28
+- Tema 26, pregunta 15; Tema 51, pregunta 40
+- Tema 26, pregunta 16; Tema 51, pregunta 75
+- Tema 27, pregunta 12; Tema 51, pregunta 53
+- Tema 27, pregunta 13; Tema 51, pregunta 144
+- Tema 27, pregunta 14; Tema 51, pregunta 167
+- Tema 32, pregunta 11; Tema 51, pregunta 24
+- Tema 32, pregunta 12; Tema 51, pregunta 59
+- Tema 40, pregunta 21; Tema 51, pregunta 10
+- Tema 41, pregunta 11; Tema 51, pregunta 76
+- Tema 41, pregunta 12; Tema 51, pregunta 52
+- Tema 44, pregunta 11; Tema 51, pregunta 29
 - Tema 45, pregunta 1; Tema 45, pregunta 2
+- Tema 45, pregunta 4; Tema 51, pregunta 20
+- Tema 45, pregunta 5; Tema 51, pregunta 23
+- Tema 45, pregunta 6; Tema 51, pregunta 64
+- Tema 45, pregunta 9; Tema 51, pregunta 103
+- Tema 47, pregunta 11; Tema 51, pregunta 41
 - Tema 48, pregunta 2; Tema 50, pregunta 11; Tema 50, pregunta 9
-- Tema 48, pregunta 5; Tema 50, pregunta 12
+- Tema 48, pregunta 4; Tema 51, pregunta 33
+- Tema 48, pregunta 5; Tema 50, pregunta 12; Tema 51, pregunta 39
+- Tema 49, pregunta 4; Tema 51, pregunta 95
+- Tema 50, pregunta 12; Tema 51, pregunta 18
+- Tema 51, pregunta 112; Tema 51, pregunta 145

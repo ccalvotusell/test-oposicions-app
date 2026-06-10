@@ -2,7 +2,7 @@ window.PREGUNTES = [
   {
     "id": "T1_Q1_9bcce855",
     "tema_num": 1,
-    "tema": "Desenvoalupmanet sostenible",
+    "tema": "Desenvolupament sostenible",
     "numero_original": 1,
     "pregunta": "La Conferència de les Nacions Unides sobre el Medi Humà (Estocolm, 1972) es considera un punt d’inflexió perquè:",
     "opcions": [
@@ -19,7 +19,7 @@ window.PREGUNTES = [
   {
     "id": "T1_Q2_d5e21cbd",
     "tema_num": 1,
-    "tema": "Desenvoalupmanet sostenible",
+    "tema": "Desenvolupament sostenible",
     "numero_original": 2,
     "pregunta": "Quin organisme es va crear arran de la Conferència d’Estocolm de 1972?",
     "opcions": [
@@ -36,7 +36,7 @@ window.PREGUNTES = [
   {
     "id": "T1_Q3_516753f6",
     "tema_num": 1,
-    "tema": "Desenvoalupmanet sostenible",
+    "tema": "Desenvolupament sostenible",
     "numero_original": 3,
     "pregunta": "Quin document va introduir el concepte modern de “desenvolupament sostenible”?",
     "opcions": [
@@ -45,15 +45,15 @@ window.PREGUNTES = [
       "Informe Brundtland (1987)",
       "Protocol de Montreal"
     ],
-    "correcta": 3,
-    "correcta_lletra": "d",
+    "correcta": 2,
+    "correcta_lletra": "c",
     "convocatoria_anterior": false,
     "explicacio": ""
   },
   {
     "id": "T1_Q4_44e9c45e",
     "tema_num": 1,
-    "tema": "Desenvoalupmanet sostenible",
+    "tema": "Desenvolupament sostenible",
     "numero_original": 4,
     "pregunta": "La Cimera de Rio de 1992 és especialment coneguda per la creació de:",
     "opcions": [
@@ -70,7 +70,7 @@ window.PREGUNTES = [
   {
     "id": "T1_Q5_099a8919",
     "tema_num": 1,
-    "tema": "Desenvoalupmanet sostenible",
+    "tema": "Desenvolupament sostenible",
     "numero_original": 5,
     "pregunta": "La Cimera Mundial sobre Desenvolupament Sostenible de Johannesburg (2002) va tenir com a objectiu principal:",
     "opcions": [
@@ -87,7 +87,7 @@ window.PREGUNTES = [
   {
     "id": "T1_Q6_7b8aef9b",
     "tema_num": 1,
-    "tema": "Desenvoalupmanet sostenible",
+    "tema": "Desenvolupament sostenible",
     "numero_original": 6,
     "pregunta": "L’Agenda 2030 va ser aprovada l’any:",
     "opcions": [
@@ -104,7 +104,7 @@ window.PREGUNTES = [
   {
     "id": "T1_Q7_9fcb7125",
     "tema_num": 1,
-    "tema": "Desenvoalupmanet sostenible",
+    "tema": "Desenvolupament sostenible",
     "numero_original": 7,
     "pregunta": "Quants Objectius de Desenvolupament Sostenible (ODS) inclou l’Agenda 2030?",
     "opcions": [
@@ -121,7 +121,7 @@ window.PREGUNTES = [
   {
     "id": "T1_Q8_de10efe7",
     "tema_num": 1,
-    "tema": "Desenvoalupmanet sostenible",
+    "tema": "Desenvolupament sostenible",
     "numero_original": 8,
     "pregunta": "Quin dels següents NO és un ODS?",
     "opcions": [
@@ -138,7 +138,7 @@ window.PREGUNTES = [
   {
     "id": "T1_Q9_7cc7331e",
     "tema_num": 1,
-    "tema": "Desenvoalupmanet sostenible",
+    "tema": "Desenvolupament sostenible",
     "numero_original": 9,
     "pregunta": "Els ODS són de caràcter:",
     "opcions": [
@@ -155,7 +155,7 @@ window.PREGUNTES = [
   {
     "id": "T1_Q10_c6bcbce7",
     "tema_num": 1,
-    "tema": "Desenvoalupmanet sostenible",
+    "tema": "Desenvolupament sostenible",
     "numero_original": 10,
     "pregunta": "Quin ODS fa referència específicament a l’acció climàtica?",
     "opcions": [
@@ -172,7 +172,7 @@ window.PREGUNTES = [
   {
     "id": "T1_Q11_13785143",
     "tema_num": 1,
-    "tema": "Desenvoalupmanet sostenible",
+    "tema": "Desenvolupament sostenible",
     "numero_original": 11,
     "pregunta": "Quin és el marc de referència principal per a la implementació de l’Agenda 2030 a Catalunya?",
     "opcions": [
@@ -189,7 +189,7 @@ window.PREGUNTES = [
   {
     "id": "T1_Q1_d0c651ba",
     "tema_num": 1,
-    "tema": "Desenvoalupmanet sostenible",
+    "tema": "Desenvolupament sostenible",
     "numero_original": 1,
     "pregunta": "Quina és la conseqüència del naixement del Programa de les Nacions Unides per al medi ambient (PNUMA)?",
     "opcions": [
@@ -206,7 +206,7 @@ window.PREGUNTES = [
   {
     "id": "T1_Q2_d8d145a8",
     "tema_num": 1,
-    "tema": "Desenvoalupmanet sostenible",
+    "tema": "Desenvolupament sostenible",
     "numero_original": 2,
     "pregunta": "On es va acordar desenvolupar un conjunt d'objectius de desenvolupament sostenible (ODS) en els quals es basa l’Agenda 2030 de Desenvolupament Sostenible de les Nacions Unides?",
     "opcions": [
@@ -215,15 +215,15 @@ window.PREGUNTES = [
       "A la Cimera de Johannesburg el 2002.",
       "A la Conferència d’Estocolm el 1972."
     ],
-    "correcta": 1,
-    "correcta_lletra": "b",
+    "correcta": 2,
+    "correcta_lletra": "c",
     "convocatoria_anterior": true,
     "explicacio": ""
   },
   {
     "id": "T1_Q3_70b37c6f",
     "tema_num": 1,
-    "tema": "Desenvoalupmanet sostenible",
+    "tema": "Desenvolupament sostenible",
     "numero_original": 3,
     "pregunta": "A on i quan es va signar el Conveni de la diversitat biològica?",
     "opcions": [
@@ -240,7 +240,7 @@ window.PREGUNTES = [
   {
     "id": "T1_Q4_bd49ac81",
     "tema_num": 1,
-    "tema": "Desenvoalupmanet sostenible",
+    "tema": "Desenvolupament sostenible",
     "numero_original": 4,
     "pregunta": "Els països signants de l’Acord de París es van comprometre a mantenir l’augment de la temperatura mitjana...",
     "opcions": [
@@ -1592,8 +1592,8 @@ window.PREGUNTES = [
       "La Conferència de les Nacions Unides sobre Medi Ambient i Desenvolupament (Cimera de la Terra, 1992).",
       "La Conferència de les Nacions Unides sobre el Medi Humà (Conferència d’Estocolm, 1972)."
     ],
-    "correcta": 3,
-    "correcta_lletra": "d",
+    "correcta": 2,
+    "correcta_lletra": "c",
     "convocatoria_anterior": true,
     "explicacio": ""
   },
@@ -10363,6 +10363,3372 @@ window.PREGUNTES = [
       "És el centre superior de coordinació i informació de l'estructura de protecció civil de Catalunya.",
       "És el centre in situ des d’on es coordinen les diferents actuacions per combatre un accident.",
       "És el centre des d'on es recolzen, en l’àmbit municipal, les accions determinades pels directors dels plans de protecció civil, vetllant per la bona coordinació dels mitjans i recursos municipals integrats."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q1_e66c3025",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 1,
+    "pregunta": "D’acord amb el marc legal vigent, què es considera una zona inundable?",
+    "opcions": [
+      "El terrenys que es poden inundar durant les crescudes ordinàries de llacs, llacunes, embassaments, rius i torrents.",
+      "El terrenys que es poden inundar durant les crescudes no ordinàries de rius i torrents.",
+      "El terrenys que es poden inundar durant les crescudes no ordinàries de llacs, llacunes, embassaments, rius i torrents.",
+      "El terrenys que es poden inundar durant les crescudes no ordinàries de llacs, rius i torrents"
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q2_425d07bd",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 2,
+    "pregunta": "Quin dels següents rius que discorren pel territori català és de gestió exclusiva de l’Agència Catalana de l’Aigua?",
+    "opcions": [
+      "La Noguera Pallaresa.",
+      "La Garona.",
+      "L’Ebre.",
+      "Cap de les opcions proposades."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q3_3eddf698",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 3,
+    "pregunta": "Quina de les afirmacions següents és falsa en relació amb els elements que proposa la Directiva per a l’avaluació de l’estat ecològic de les masses d’aigua:",
+    "opcions": [
+      "El fitoplàncton, i els macroinvertebrats són elements de mesura de la qualitat biològica de les masses d’aigua costaneres.",
+      "Alguns dels paràmetres químics que s’han de tenir en compte per a l’avaluació de la qualitat fisicoquímica de les aigües costaneres són els nutrients (fosfat, amoni, nitrit), els compostos organohalogenats volàtils (PCE i TCE) i la conductivitat.",
+      "El CARLIT (macroalgues) i el POMI (fanerògames marines) són índexs de mesura d’elements de qualitat biològica de les masses d’aigua costaneres.",
+      "Per a l’avaluació de qualitat fisicoquímica de les masses d’aigua costaneres s’utilitza l’índex FAN (fosfat, amoni, nitrit)."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q4_cc23b728",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 4,
+    "pregunta": "L’ordenació dels serveis d'abastament en alta i de sanejament és competència de:",
+    "opcions": [
+      "Els municipis.",
+      "L’Agència Catalana de l’Aigua.",
+      "Les diputacions.",
+      "Els consells comarcals."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q5_f7c9ce27",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 5,
+    "pregunta": "L’aigua regenerada s’utilitza per a:",
+    "opcions": [
+      "Usos agrícoles.",
+      "Usos de boca.",
+      "El bany públic.",
+      "No s’utilitza."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q6_8f3ecc61",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 6,
+    "pregunta": "Els mapes de vulnerabilitat i capacitat del territori (MVCT) són una eina que permet avaluar la incidència dels contaminants emesos a l’atmosfera:",
+    "opcions": [
+      "En una zona determinada de Catalunya.",
+      "En cada comarca de Catalunya.",
+      "En cada municipi de Catalunya.",
+      "En cada vegueria de Catalunya."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q7_b8e524bb",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 7,
+    "pregunta": "El programa de gestió de residus industrials de Catalunya es coneix com a:",
+    "opcions": [
+      "PROGRIT.",
+      "PROGRCIC.",
+      "PROGRIC",
+      "PROGRINS."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q8_367d6b7a",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 8,
+    "pregunta": "Quin d’aquests supòsits no es considera una instal·lació per a la gestió de residus?",
+    "opcions": [
+      "Un dipòsit controlat.",
+      "Instal·lacions de valorització de residus.",
+      "Instal·lacions per a la fosa de materials minerals.",
+      "Deixalleria."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q9_aec83bd9",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 9,
+    "pregunta": "D’acord amb el marc legal vigent, quina creus que és la definició més completa del Pla de gestió de les dejeccions ramaderes?",
+    "opcions": [
+      "El document de planificació que recull la destinació i altres aspectes de la gestió de les dejeccions ramaderes que transforma una explotació ramadera, un centre de gestió de dejeccions o un gestor de residus, i que permet garantir que es disposa de la capacitat per realitzar una correcta gestió de les dejeccions.",
+      "El document de planificació que recull la destinació i altres aspectes de la gestió de les dejeccions ramaderes que genera o transforma una explotació ramadera, i que permet garantir que es disposa de la capacitat per realitzar una correcta gestió de les dejeccions.",
+      "El document de planificació que recull la destinació i altres aspectes de la gestió de les dejeccions ramaderes que genera o transforma una explotació ramadera, un centre de gestió de dejeccions o un gestor de residus, i que permet garantir que es disposa de la capacitat per realitzar una correcta gestió de les dejeccions.",
+      "El document de planificació que recull l’origen i la destinació de les dejeccions ramaderes que genera o transforma una explotació ramadera o un centre de gestió de dejeccions, i que permet garantir que es disposa de la capacitat per realitzar una correcta gestió de les dejeccions."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q10_cf11df4b",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 10,
+    "pregunta": "En quina de les 4 fases del procés de gestió de sòls contaminats cal realitzar un informe d’avaluació preliminar?",
+    "opcions": [
+      "1a fase.",
+      "2a fase.",
+      "3a fase.",
+      "4a fase."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q11_bef77dfc",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 11,
+    "pregunta": "Quin d’aquests factors no determina la vulnerabilitat d’una espècie?",
+    "opcions": [
+      "L’àrea de distribució reduïda.",
+      "La mida corporal petita o mitjana.",
+      "La densitat baixa de la població.",
+      "La baixa variabilitat genètica."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q12_73a9b299",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 12,
+    "pregunta": "Quina superfície ocupen els boscos de Catalunya?",
+    "opcions": [
+      "30 % de la superfície total i 9.475 kilòmetres quadrats.",
+      "35 % de la superfície total i 11.050 kilòmetres quadrats.",
+      "40 % de la superfície total i 12.630 kilòmetres quadrats.",
+      "38 % de la superfície total i 12.000 kilòmetres quadrats."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q13_0f1597b4",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 13,
+    "pregunta": "Què pretén la compensació dels impactes residuals?",
+    "opcions": [
+      "Assolir la no pèrdua neta d’un projecte.",
+      "Mitigar els impactes crítics d’un projecte.",
+      "Minimitzar els efectes adversos d’un projecte.",
+      "Corregir els impactes ambientals d’un projecte."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q14_e25f14e4",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 14,
+    "pregunta": "Les declaracions d’impacte ambiental caduquen:",
+    "opcions": [
+      "No està especificat en la norma.",
+      "Als 4 anys des de la seva emissió.",
+      "Mai.",
+      "Als 4 anys des de la seva publicació al Diari Oficial de la Generalitat de Catalunya."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q15_4d28916b",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 15,
+    "pregunta": "L’Estratègia del patrimoni natural i la biodiversitat de Catalunya s’estructura en sis àmbits temàtics. Quin dels àmbits següents no és un d’ells?",
+    "opcions": [
+      "La infraestructura verda i els instruments de mediació.",
+      "La implicació de la societat.",
+      "La integració del patrimoni natural en les polítiques sectorials.",
+      "La conservació dels components del patrimoni natural en el context del canvi global."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q16_24963302",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 16,
+    "pregunta": "Quins dels següents no estan subjectes a una avaluació ambiental?",
+    "opcions": [
+      "Els instruments de planejament territorial.",
+      "Els instruments de planejament urbanístic.",
+      "Els plans i els programes financers o pressupostaris.",
+      "Els plans i els programes relatius a l'agricultura."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q17_db298c4b",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 17,
+    "pregunta": "Com s’anomena l’informe preceptiu i determinant de l’òrgan ambiental amb el qual finalitza l’avaluació ambiental estratègica simplificada?",
+    "opcions": [
+      "Estudi d’impacte ambiental.",
+      "Declaració ambiental estratègica.",
+      "Estudi ambiental.",
+      "Informe ambiental estratègic."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q18_bad6038f",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 18,
+    "pregunta": "Atenent a la gravetat de la situació d'emergència, quines són les fases del Pla especial d’emergències per contaminació de les aigües marines a Catalunya (CAMCAT)?",
+    "opcions": [
+      "Alerta, conat d’emergència, emergència 1 i emergència 2.",
+      "Prealerta, alerta, emergència 1 i emergència 2.",
+      "Prealerta, alerta, emergència i avís d’observació.",
+      "Alerta, conat d’emergència, emergència parcial i emergència general."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q19_6553ce94",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 19,
+    "pregunta": "Segons el Decret 139/2008, de 3 de juliol, sobre els règims d'intervenció ambiental atmosfèrica dels establiments on es desenvolupin activitats potencialment contaminants de l'atmosfera, quina funció no correspon a l'Administració de la Generalitat de Catalunya, mitjançant la direcció general competent en matèria de prevenció i control de la contaminació atmosfèrica?",
+    "opcions": [
+      "Exercir el control de les prescripcions referents a la prevenció de la contaminació atmosfèrica i del mesurament de les emissions dels focus dels establiments classificats al grup C o sense grup assignat, si escau, i subjectes per la Llei 20/2009, de 4 de desembre, a llicència ambiental o comunicació.",
+      "Determinar l'obligació de mesurament de les emissions en continu i fer el seguiment dels sistemes automàtics de mesurament (SAM).",
+      "Controlar les notificacions d'emissions a què fa referència la secció 2 del capítol II i controlar les emissions d'aquests establiments.",
+      "Gestionar la Xarxa d'Emissions Atmosfèriques de Catalunya (XEAC)."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q20_45930167",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 20,
+    "pregunta": "Cada quan és una obligació de les organitzacions de sistemes de gestió i auditoria ambientals (EMAS) registrades verificar el sistema complet de gestió mediambiental i el programa d’auditoria per a la renovació del seu registre?",
+    "opcions": [
+      "Cada any.",
+      "Com a mínim cada cinc anys.",
+      "Com a mínim cada tres anys.",
+      "No hi estan obligats."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q21_9c18dbeb",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 21,
+    "pregunta": "D’acord amb la Llei 20/2009, del 4 de desembre, de prevenció i control ambiental de les activitats, quines activitats resten sotmeses al règim d'intervenció administrativa de comunicació?",
+    "opcions": [
+      "Les activitats incloses en l'annex II de la llei.",
+      "Les activitats incloses en l’annex I.1 de la llei.",
+      "Les activitats incloses en l’annex III de la llei.",
+      "Les activitats incloses en l’annex I.2 de la llei."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q22_a0942710",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 22,
+    "pregunta": "Quina afirmació és correcta respecte de les mesures compensatòries aplicables a plans, programes o projectes?",
+    "opcions": [
+      "Faciliten la validació de propostes amb impacte crític sobre el medi.",
+      "Són mesures específiques a considerar com a primer recurs per tal de minimitzar-ne l’impacte ambiental sever.",
+      "No s’apliquen als impactes sobre la biodiversitat.",
+      "S’adrecen només a aquells impactes residuals que no s’hagin pogut evitar, reduir o restaurar."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q23_83e945c8",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 23,
+    "pregunta": "Quin és l’organisme competent del registre de les organitzacions que han implantat un sistema de gestió i auditoria ambiental (EMAS) a Catalunya?",
+    "opcions": [
+      "La Direcció General de Qualitat Ambiental i Canvi Climàtic.",
+      "El Ministeri per a la Transició Ecològica i el Repte Demogràfic.",
+      "La Comissió Europea.",
+      "La Direcció General de Polítiques Ambientals i Medi Natural."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q24_23d2e89e",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 24,
+    "pregunta": "L’ozó troposfèric és un contaminant secundari que es genera a partir de reaccions fotoquímiques. Què necessita perquè es formi?",
+    "opcions": [
+      "La coexistència d’òxids de nitrogen i de compostos orgànics volàtils exclusivament.",
+      "La coexistència d’òxids de nitrogen, de sulfur d’hidrogen i radiació solar intensa en un període prou llarg de temps.",
+      "La coexistència d’òxids de nitrogen, de compostos orgànics volàtils i radiació solar intensa en un període prou llarg de temps.",
+      "La coexistència d’òxids de nitrogen, de monòxid de carboni i radiació solar intensa en un període prou llarg de temps."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q25_4d248109",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 25,
+    "pregunta": "En el Pla d'emergència exterior del sector químic de Catalunya (PLASEQCAT), quina és la zona en la qual les conseqüències dels accidents produeixen o poden produir (segons l’evolució de l’accident) un nivell de danys que justifiquin l’aplicació immediata de mesures de protecció?",
+    "opcions": [
+      "La zona d’alerta.",
+      "La zona de prevenció.",
+      "La zona d’actuació.",
+      "La zona d’intervenció."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q26_be2d2bc9",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 26,
+    "pregunta": "Quina afirmació és correcta sobre els òrgans col·legiats dels espais naturals?",
+    "opcions": [
+      "Són els que donen suport a la gestió dels espais naturals per tal d'assolir els seus objectius i finalitats, establerts per la norma que els va declarar, així com els que marquen les eines de planificació i gestió.",
+      "Són els que es creen per impulsar la informació i fomentar la participació de la societat civil i de la ciutadania en la gestió dels espais naturals protegits.",
+      "Són els que determinen les actuacions necessàries per completar el règim de protecció establert mitjançant les normes del Pla especial.",
+      "Els espais naturals no tenen òrgans col·legiats."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q27_154b0ad1",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 27,
+    "pregunta": "Quins òrgans o entitats no han d’elaborar mapes estratègics de soroll?",
+    "opcions": [
+      "Les aglomeracions municipals o supramunicipals de més de 100.000 habitants.",
+      "Els grans centres comercials de més de 30.000 visitants/any.",
+      "Els grans eixos viaris de més 3.000.000 vehicles/any.",
+      "Els grans eixos ferroviaris de més de 30.000 trens/any."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q28_9f3f4c2c",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 28,
+    "pregunta": "En quin supòsit s'han de revisar anticipadament l'autorització i la llicència ambiental i modificar-les?",
+    "opcions": [
+      "Si així ho exigeix la normativa industrial aplicable.",
+      "Si hi ha una variació molt poc important del medi receptor respecte de les condicions que presentava en el moment que es va atorgar l'autorització o la llicència.",
+      "Si l'aparició de modificacions importants en les millors tècniques disponibles, validades per la Unió Europea, fa possible reduir significativament les emissions sense imposar costos excessius.",
+      "Mai no es revisa anticipadament una autorització o llicència ambiental."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q29_9c81818c",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 29,
+    "pregunta": "Quina funció té, entre d’altres, la Direcció General de Qualitat Ambiental i Canvi Climàtic?",
+    "opcions": [
+      "Vetllar pel compliment de la legislació de contractació administrativa i, especialment, per l'observança dels principis de publicitat i lliure concurrència.",
+      "Dirigir i gestionar el Registre oficial de contractistes.",
+      "Coordinar i promoure la compra pública verda (CPV) a la Generalitat de Catalunya.",
+      "Ordenar la recollida, l'emmagatzematge o la redistribució, o acordar l'alienació dels productes o béns mobles que ja no siguin necessaris o que s'hagin de renovar."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q30_26bef0da",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 30,
+    "pregunta": "D’acord amb la Llei 12/1985, d’espais naturals, quins espais tenen la categoria d’espais naturals de protecció especial (ENPE)?",
+    "opcions": [
+      "Els parcs especials.",
+      "Les reserves d’interès nacional.",
+      "Les reserves de fauna i flora.",
+      "Els parcs nacionals."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q31_97e1dcac",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 31,
+    "pregunta": "Quina és la definició de les accions orientades a conservar i mantenir els trets significatius i característics d'un paisatge, justificades pel valor patrimonial derivat de la seva configuració natural i/o de l'activitat humana, segons el Conveni europeu del paisatge?",
+    "opcions": [
+      "Protecció del paisatge.",
+      "Gestió del paisatge.",
+      "Planificació del paisatge.",
+      "Política del paisatge."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q32_c462971e",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 32,
+    "pregunta": "En matèria d’informació ambiental, en quin termini l'autoritat pública competent per resoldre ha de facilitar la informació ambiental sol·licitada o comunicar al sol·licitant els motius de la negativa a facilitar-la?",
+    "opcions": [
+      "En el termini màxim d'un mes des de la recepció de la sol·licitud en el registre de l'autoritat pública competent per resoldre-la, amb caràcter general.",
+      "En el termini màxim de dos mesos des de la recepció de la sol·licitud en el registre de l'autoritat pública competent per resoldre-la, amb caràcter general.",
+      "En el termini d’un mes des de la recepció de la sol·licitud en el registre de l'autoritat pública competent per resoldre-la, si el volum i la complexitat de la informació són tals que resulta impossible complir el termini indicat abans.",
+      "En el termini que l'autoritat pública competent necessiti per resoldre-la, quan el volum i la complexitat de la informació són tals que resulta impossible complir el termini indicat abans."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q33_f48990a9",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 33,
+    "pregunta": "En matèria de protecció civil, quina funció correspon al conseller o consellera d’Interior?",
+    "opcions": [
+      "Presidir la Comissió Municipal de Protecció Civil.",
+      "Elaborar i mantenir el Catàleg de recursos i serveis mobilitzables per a la protecció civil a Catalunya.",
+      "Exercir la direcció superior del Centre de Coordinació Operativa Municipal (CECOPAL).",
+      "Elaborar i proposar al Ple de l’ajuntament o a la comissió de Govern, segons escaigui, les disposicions que en l’àmbit municipal s’hagin de dictar en matèria de protecció civil."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q34_ea60e9f1",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 34,
+    "pregunta": "Segons la Directiva 92/43, relativa a la conservació dels hàbitats naturals i de la fauna i flora silvestres, quins espais designats prèviament determina que cal declarar com a zones especials de conservació (ZEC)?",
+    "opcions": [
+      "Zones d’especial protecció per les aus (ZEPA).",
+      "Regions d’especial protecció (REP).",
+      "Hàbitats d’interès comunitari (HIC).",
+      "Llocs d’importància comunitària (LIC)."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q35_cc017088",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 35,
+    "pregunta": "Quin tipus de pla territorial és el Pla d'espais d'interès natural de Catalunya (PEIN)?",
+    "opcions": [
+      "Especial.",
+      "General.",
+      "Natural.",
+      "Sectorial."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q36_8cf17e72",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 36,
+    "pregunta": "D’acord amb l’article 45 de la Constitució espanyola, aprovada en el referèndum del 6 de desembre de 1978, quina afirmació és correcta sobre els poders públics?",
+    "opcions": [
+      "Han de promoure i tutelar l'accés a la cultura, a la qual tothom té dret.",
+      "Han de vetllar per la utilització racional de tots els recursos naturals, a fi de protegir i millorar la qualitat de la vida i defensar i restaurar el medi ambient, amb el suport de la indispensable solidaritat col·lectiva.",
+      "Han de promoure la ciència i la investigació científica i tècnica en benefici de l'interès general.",
+      "Han de fomentar l'educació sanitària, l'educació física i l'esport. I facilitar també la utilització adequada del lleure."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q37_f65968be",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 37,
+    "pregunta": "Un centre educatiu que forma part activament d’una xarxa de centres que incorporen l’educació per a la sostenibilitat en el seu projecte educatiu i que, per tant, integren els continguts i valors de la sostenibilitat en el currículum i en la gestió del centre i s’impliquen de forma activa en la millora del seu entorn, promovent-hi la participació activa de tota la comunitat educativa, com s’anomena?",
+    "opcions": [
+      "Escola de natura.",
+      "Escola rural.",
+      "Escola verda.",
+      "Escola d’educació especial."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q38_0387dda8",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 38,
+    "pregunta": "D’acord amb la Directiva 92/43, relativa a la conservació dels hàbitats naturals i de la fauna i flora silvestres, quina és una de les característiques que defineix un hàbitat natural d’interès comunitari?",
+    "opcions": [
+      "Que estigui en expansió pels efectes derivats del canvi climàtic.",
+      "Que es trobi en regressió per un procés de despoblació i desertització econòmica.",
+      "Que tingui una àrea de distribució reduïda a causa de la seva regressió o per tenir una àrea reduïda per pròpia naturalesa.",
+      "Que estigui amenaçat per fonts de contaminació transfronterera extracomunitàries."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q39_4958a3f2",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 39,
+    "pregunta": "Què és el Centre de Coordinació Operativa Municipal (CECOPAL)?",
+    "opcions": [
+      "El centre superior de coordinació i informació de l’estructura de protecció civil de Catalunya.",
+      "El centre de coordinació operativa de la Delegació i subdelegacions del Govern de l'Estat a Catalunya.",
+      "El centre de direcció i coordinació del Pla d’actuació municipal.",
+      "El centre des d'on es coordinen les diferents actuacions in situ per combatre l'emergència, així com la coordinació de les xarxes de transmissions."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q40_8cc95cc6",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 40,
+    "pregunta": "D’acord amb la Llei 20/2009, del 4 de desembre, de prevenció i control ambiental de les activitats, com es defineix l’avaluació ambiental?",
+    "opcions": [
+      "L'anàlisi dels efectes i els resultats ambientals de l'activitat, que comprèn la descripció i, específicament, les instal·lacions, les matèries primeres i les auxiliars, els processos, els productes i el consum de recursos naturals i d'energia, i les emissions de tota mena i llurs repercussions en el medi considerat en conjunt.",
+      "La decisió de la Comissió Europea que conté les parts d’un document de referència «MTD» en què s’estableixen les conclusions sobre les millors tècniques disponibles, llur descripció, la informació per avaluar-ne l’aplicabilitat, els nivells d’emissió associats a les millors tècniques disponibles, els mesuraments associats i, si s’escau, les mesures de rehabilitació de l’emplaçament de què es tracti.",
+      "L’informe de la situació de partida que conté la informació sobre l’estat de la contaminació del sòl i les aigües subterrànies per substàncies perilloses rellevants.",
+      "L'acord subscrit entre l'Administració ambiental competent i la persona o les persones titulars d'una activitat o un grup d'activitats d'un sector industrial determinat, segons el qual ambdues parts es vinculen voluntàriament per a complir uns objectius de qualitat del medi ambient determinats per la normativa específica o, si no n'hi ha, adoptant, si escau, paràmetres o mesures tècniques equivalents de conformitat amb les millors tècniques disponibles."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q41_3568991d",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 41,
+    "pregunta": "Una dada espacial és una variable associada a una localització a l’espai. Normalment, es fan servir dades vectorials, per quins tres tipus d’objectes espacials bàsics poden ser expressades?",
+    "opcions": [
+      "Punts, línies i polígons.",
+      "Coordenades, línies i vectors.",
+      "Punts, coordenades i vectors.",
+      "Arcs, rectes i vectors."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q42_d637890f",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 42,
+    "pregunta": "La inclusió d'un tàxon o una població en la categoria de “en perill d’extinció”, en quin termini comporta l'adopció d'un pla que inclogui les mesures més adequades per al compliment dels objectius buscats, i si s'escau, la designació d'àrees crítiques?",
+    "opcions": [
+      "En dos anys.",
+      "En un termini màxim de tres anys.",
+      "En un termini màxim d’un any.",
+      "En qualsevol moment."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q43_b8ed8ca8",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 43,
+    "pregunta": "Les bases per a les directrius de connectivitat ecològica de Catalunya, com defineixen la connectivitat ecològica?",
+    "opcions": [
+      "Qualitat del medi natural i dels espais semitransformats que, a més del moviment i la dispersió dels organismes, permet el manteniment dels processos ecològics i dels fluxos que els caracteritzen (aigua, matèria, gens, etc.).",
+      "Zona d’espais oberts que voreja un nucli urbà, com parcs periurbans i espais agrícoles i naturals, establerta des de l’òptica urbanística per limitar la tendència urbana expansiva i la coalescència amb altres nuclis urbans propers, així com per millorar la qualitat de vida de la ciutadania.",
+      "Sector relativament ampli del territori definit a partir d’unes característiques morfològiques i d’una estructura d’hàbitats que afavoreixen la continuïtat dels fluxos biològics i ecològics, com és facilitar els moviments d’un ampli ventall d’espècies a través del territori i mantenir la continuïtat de determinats processos ecològics.",
+      "Element del paisatge, generalment d’estructura contínua i lineal, que, amb independència del valor dels hàbitats naturals que el componen, té un interès per permetre els desplaçaments de determinades espècies entre diferents espais naturals d’una certa extensió."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q44_b45f7a85",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 44,
+    "pregunta": "Quin dels convenis internacionals següents tracta sobre la conservació de la vida silvestre i del medi natural d'Europa?",
+    "opcions": [
+      "Ramsar.",
+      "Berna.",
+      "Bonn.",
+      "Cartagena."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q45_10bfb0d8",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 45,
+    "pregunta": "Quan una activitat du a terme proves amb tècniques emergents, l’òrgan competent pot concedir exempcions temporals, quin és el període màxim d’exempció que pot concedir?",
+    "opcions": [
+      "Com a màxim tres mesos.",
+      "Deu mesos.",
+      "Un any.",
+      "No superior a nou mesos."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q46_1673dbfb",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 46,
+    "pregunta": "Quina és la conseqüència del naixement del Programa de les Nacions Unides per al medi ambient (PNUMA)?",
+    "opcions": [
+      "L’Agenda 2030 per al Desenvolupament Sostenible de les Nacions Unides.",
+      "La Cimera Mundial de Desenvolupament Sostenible (Cimera de Johannesburg 2002).",
+      "La Conferència de les Nacions Unides sobre Medi Ambient i Desenvolupament (Cimera de la Terra, 1992).",
+      "La Conferència de les Nacions Unides sobre el Medi Humà (Conferència d’Estocolm, 1972)."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q47_8f53c24b",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 47,
+    "pregunta": "Quines són les figures de planejament territorial definides en la Llei 23/1983, de 21 de novembre, de política territorial?",
+    "opcions": [
+      "Pla d’ordenació del territori de Catalunya, plans territorials parcials, plans territorials sectorials i plans territorials locals o supralocals.",
+      "Pla territorial general, plans territorials parcials, plans territorials sectorials i plans d’ordenació urbanística municipal.",
+      "Pla territorial general, plans territorials parcials, plans territorials sectorials i plans directors territorials.",
+      "Pla d’ordenació del territori de Catalunya, plans territorials parcials, plans territorials de mobilitat i plans territorials d’infraestructures."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q48_e576421b",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 48,
+    "pregunta": "On es va acordar desenvolupar un conjunt d'objectius de desenvolupament sostenible (ODS) en els quals es basa l’Agenda 2030 de Desenvolupament Sostenible de les Nacions Unides?",
+    "opcions": [
+      "A la Conferència de Rio + 5 el 1997.",
+      "A la Conferència de Rio +20.",
+      "A la Cimera de Johannesburg el 2002.",
+      "A la Conferència d’Estocolm el 1972."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q49_9edd6792",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 49,
+    "pregunta": "La inclusió d’un taxó o població en la categoria de vulnerable, quin tipus de pla comporta adoptar?",
+    "opcions": [
+      "De recuperació.",
+      "De conservació.",
+      "Tècnic de gestió.",
+      "Estratègic de seguiment."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q50_7b16230c",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 50,
+    "pregunta": "En el marc del procediment d’avaluació ambiental estratègica ordinària, què és el document d’abast (DA)?",
+    "opcions": [
+      "El document emès per l’òrgan ambiental en què s’estableix l’amplitud, el nivell de detall i el grau d’especificació que ha de tenir l’estudi ambiental estratègic, així com una avaluació de la idoneïtat ambiental de les alternatives i les propostes inicials.",
+      "El document ambiental elaborat pel promotor que identifica, descriu i avala els possibles efectes significatius sobre el medi ambient d’un determinat pla o programa.",
+      "El document ambiental elaborat pel promotor en fase d’avançament de pla amb el qual s’inicia el procediment.",
+      "El document resum del procés de participació pública."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q51_5df18c65",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 51,
+    "pregunta": "Què és un mapa de capacitat acústica?",
+    "opcions": [
+      "El mapa que inclou el nivell de pressió acústica avaluat per un període de temps especificat.",
+      "L’instrument que incorpora, des del punt de vista acústic, els emissors d’una zona determinada.",
+      "L’instrument que assigna els nivells d’immissió fixats com a objectius de qualitat en un territori determinat.",
+      "El mapa dissenyat per avaluar globalment l’exposició de la població al soroll produït per diferents fonts de soroll en una zona determinada."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q52_01d6de64",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 52,
+    "pregunta": "Què és l’Agència Catalana de l’Aigua?",
+    "opcions": [
+      "És una empresa pública de la Generalitat que gaudeix d'autonomia funcional i de gestió que està adscrita al departament competent en matèria d’empresa, el qual exerceix el control d'eficàcia sobre la seva activitat.",
+      "És l’autoritat que exerceix les competències de la Generalitat sobre els residus líquids que es generen a Catalunya i els que es gestionen al seu àmbit territorial.",
+      "És una entitat autònoma de la Generalitat que, entre les seves funcions, no s’inclou el control de la qualitat de les platges.",
+      "És l’empresa pública de la Generalitat de Catalunya que s’encarrega de la planificació i la gestió de l’aigua, d’acord amb els principis bàsics de la Directiva marc de l’aigua."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q53_71d892f2",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 53,
+    "pregunta": "El Pla d’inspecció ambiental integrada és un document marc de caràcter pluriennal que ofereix les orientacions estratègiques en matèria de comprovació i verificació de quines activitats?",
+    "opcions": [
+      "De l’annex I.1.",
+      "De l’annex II.",
+      "De l’annex I.2.",
+      "De l’annex I.3."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q54_eacde0d9",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 54,
+    "pregunta": "El procediment d’avaluació ambiental estratègica ordinària finalitza amb l’emissió de quin document?",
+    "opcions": [
+      "El document d’abast (DA).",
+      "L’informe ambiental estratègic (IAE).",
+      "L’estudi ambiental estratègic (EAE).",
+      "La declaració ambiental estratègica (DAE)."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q55_a9ad6ac2",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 55,
+    "pregunta": "En el context del canvi climàtic, què s’entén per mitigació?",
+    "opcions": [
+      "La capacitat de reduir la nostra vulnerabilitat (social, territorial, econòmica, ambiental) als impactes i els riscos derivats del canvi climàtic.",
+      "La voluntat de reduir la vulnerabilitat de la població, dels sectors socioeconòmics i dels ecosistemes terrestres i marins davant els impactes adversos del canvi climàtic.",
+      "La intervenció antropogènica que té per objectiu reduir les emissions de gasos amb efecte d'hivernacle o millorar els embornals.",
+      "La capacitat d'ajust dels sistemes naturals o humans al canvi climàtic i als seus impactes per moderar-ne els danys o aprofitar-ne les oportunitats."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q56_4c3b5183",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 56,
+    "pregunta": "Què són els sistemes automàtics de mesurament (SAM)?",
+    "opcions": [
+      "Són mesuraments puntuals que efectua el personal tècnic quan pren mostra, habitualment per triplicat, dels contaminants emesos per la xemeneia.",
+      "Són equips electrònics que mesuren en continu l’emissió de contaminants dels focus.",
+      "Són mesuraments de la diversitat i concentracions de grans de pol·len i d’espores de fongs presents a l’aire d’ambient exteriors.",
+      "Són sistemes de detecció dels nivells d'immissió dels principals contaminants."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q57_ce2d4748",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 57,
+    "pregunta": "A on i quan es va signar el Conveni de la diversitat biològica?",
+    "opcions": [
+      "A la Conferència d’Estocolm el 1972.",
+      "A la Cimera de Rio el 1992.",
+      "A la Conferència de Rio + 5 el 1997.",
+      "A la Cimera de Johannesburg el 2002."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q58_576352e1",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 58,
+    "pregunta": "D’acord amb el Conveni marc de les Nacions Unides sobre el canvi climàtic, què s’entén per “dipòsit”?",
+    "opcions": [
+      "Qualsevol procés, activitat o mecanisme que absorbeix un gas amb efecte d'hivernacle, un aerosol o un precursor d'un gas amb efecte d'hivernacle a l'atmosfera.",
+      "Un component o més del sistema climàtic on hi ha emmagatzemat un gas amb efecte d'hivernacle, un aerosol o un precursor d'un gas amb efecte d'hivernacle de l'atmosfera.",
+      "Qualsevol procés o activitat que allibera un gas amb efecte d'hivernacle, un aerosol o un precursor d'un gas amb efecte d'hivernacle a l'atmosfera.",
+      "La totalitat de l'atmosfera, la hidrosfera, la biosfera i la geosfera, i llurs interaccions."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q59_dedac867",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 59,
+    "pregunta": "Com es coneix el nivell d’un contaminant, mitjançant el qual una exposició de breu durada suposa un risc elevat per a la salut humana que afecta al conjunt de la població i, que, en cas que hi hagi superació o previsió que sigui superat, requereix l’adopció de mesures excepcionals i immediates per part de les administracions competents?",
+    "opcions": [
+      "Llindar d’alarma química.",
+      "Límit d’immissió",
+      "Llindar d’alerta.",
+      "Llindar d’informació."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q60_488f57d2",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 60,
+    "pregunta": "Quin d’aquests objectius persegueix l’Estratègia d’impuls a l’economia verda i l'economia circular del Govern de Catalunya?",
+    "opcions": [
+      "Incrementar el lideratge empresarial i la capacitat d’arrossegament cap a una economia verda i circular de les empreses i del conjunt de la societat.",
+      "Incentivar a fabricants i dissenyadors perquè incorporin l’ecodisseny.",
+      "Millorar el coneixement dels impactes del canvi climàtic sobre la biodiversitat a Catalunya i, en particular, sobre l’estructura i el funcionament dels ecosistemes.",
+      "Coordinar la planificació forestal amb la planificació hidrològica posant de relleu el paper dels boscos en la regulació del cicle de l’aigua."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q61_0a3f09d3",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 61,
+    "pregunta": "Quins documents integren un expedient d’avaluació ambiental estratègica complet?",
+    "opcions": [
+      "La proposta final de pla o programa, l’estudi ambiental estratègic i la memòria ambiental.",
+      "La proposta final de pla o programa; l’estudi ambiental estratègic; el resultat de la informació pública i de les consultes i un document resum, en què el promotor descriu la integració ambiental en la proposta final.",
+      "El document ambiental estratègic; el resultat de la informació pública i un document resum en què el promotor descriu la integració ambiental en el pla o programa.",
+      "La proposta final de pla o programa, la memòria ambiental i un document resum en què el promotor descriu la integració ambiental en el pla o programa."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q62_4c1c1a99",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 62,
+    "pregunta": "Quina d’aquestes finalitats no és objecte de les actuacions definides a l’Estratègia catalana d’ecodisseny (ecodiscat)?",
+    "opcions": [
+      "Reduir el consum de matèries primeres i energia.",
+      "Minimitzar els residus i emissions generades.",
+      "Generar un entorn adequat i favorable per donar un valor afegit i responsable als productes i serveis produïts i comercialitzats a Catalunya.",
+      "Facilitar la importació de productes que incorporin innovacions en matèria d’ecodisseny."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q63_fe9a29c3",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 63,
+    "pregunta": "Cada quan s’han de revisar i, si escau, esmenar els mapes estratègics de soroll?",
+    "opcions": [
+      "Cada tres anys.",
+      "Cada dos anys.",
+      "Cada cinc anys.",
+      "Cada any."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q64_5a76d4f7",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 64,
+    "pregunta": "Quin caràcter té la inscripció en el registre del sistema de gestió i auditoria ambiental (EMAS) per part d’una fundació?",
+    "opcions": [
+      "És voluntària.",
+      "És obligatòria sempre.",
+      "És obligatòria per a les fundacions amb més de 100 treballadors.",
+      "Les fundacions no es poden inscriure en el registre EMAS."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q65_1513dd5d",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 65,
+    "pregunta": "Quina de les afirmacions següents no és certa en relació amb l’Estratègia catalana d'adaptació al canvi climàtic del 2021-2030 (ESCACC30)?",
+    "opcions": [
+      "L’objectiu de l’Estratègia és millorar l’adaptació al canvi climàtic a Catalunya i reduir-ne la vulnerabilitat.",
+      "És el primer document estratègic sobre polítiques d’adaptació al canvi climàtic a Catalunya.",
+      "S’articula a partir de 76 objectius operatius que es despleguen en 312 mesures d’adaptació per als diversos sistemes naturals, àmbits socioeconòmics i territoris de Catalunya.",
+      "Assumeix els estrets vincles que hi ha entre les actuals crisis ecològica i climàtica."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q66_ce9aa9cd",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 66,
+    "pregunta": "Quin és un principi de l’avaluació ambiental?",
+    "opcions": [
+      "Protecció i millora del medi ambient.",
+      "Principi d’igualtat.",
+      "Principi de proporcionalitat.",
+      "Principi de bona regulació."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q67_30af934a",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 67,
+    "pregunta": "Quin és el nombre de fites d’Aichi que es va establir en el Pla estratègic sobre la diversitat biològica del 2011-2020?",
+    "opcions": [
+      "25 fites.",
+      "20 fites.",
+      "16 fites.",
+      "32 fites."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q68_5e8f242c",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 68,
+    "pregunta": "Pel que fa a la gestió administrativa de l’aigua, Catalunya es divideix:",
+    "opcions": [
+      "En tres àmbits: regions fluvials internes, regions fluvials intercomunitàries i franja marítima.",
+      "En dues demarcacions: les conques internes o districte de conca fluvial de Catalunya i les conques intercomunitàries i internacionals.",
+      "En dos àmbits: les conques del nord i les conques del sud.",
+      "En tres demarcacions: les conques estatals, les conques autonòmiques i les conques internacionals."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q69_8dfdc7b1",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 69,
+    "pregunta": "D'acord amb el Decret legislatiu 3/2003, de 4 de novembre, pel qual s'aprova el text refós de la legislació en matèria d'aigües de Catalunya, són funcions de l’Agència Catalana de l'Aigua (ACA), assenyala l'opció INCORRECTA:",
+    "opcions": [
+      "El control de la qualitat de les platges.",
+      "El control sanitari de les aigües residuals.",
+      "La promoció, la construcció, l'explotació i el manteniment de les obres hidràuliques de competència de la Generalitat.",
+      "En l'àmbit de les conques internes de Catalunya, elaborar i revisar els plans, els programes i els projectes hidrològics."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q70_9e357d42",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 70,
+    "pregunta": "Pel que fa als Paratges Naturals d’Interès Nacional (PNIN), assenyala l’afirmació INCORRECTA:",
+    "opcions": [
+      "La declaració de PNIN es fa per decret del Govern.",
+      "La Vall del Monestir de Poblet és un PNIN.",
+      "Només s’hi poden desenvolupar activitats tradicionals agrícoles, ramaderes i silvícoles compatibles amb els objectius concrets de la protecció i altres activitats pròpies de la gestió de l'espai protegit.",
+      "La gestió dels PNIN correspon a l'Administració de la Generalitat."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q71_f9f66925",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 71,
+    "pregunta": "Pel que fa a la Xarxa Natura 2000, assenyala l’afirmació INCORRECTA:",
+    "opcions": [
+      "A Catalunya, actualment, hi ha més de 100 espais declarats Natura 2000.",
+      "Un espai inclòs a Natura 2000 pot haver estat designat com una ZEC o com una ZEPA, però també com ambdues coses a la vegada.",
+      "D’acord amb la Llei 12/2006, de mesures en matèria de medi ambient, la inclusió d’un espai a la xarxa Natura 2000 implica la seva integració automàtica al PEIN.",
+      "A Catalunya, la declaració d’espais ZEC s’inicia amb l’aprovació d’una llei del Parlament que proposa una llista de de Llocs d’Importància Comunitària (LIC) a la Comissió Europea."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q72_9428ee47",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 72,
+    "pregunta": "Pel que fa a l’àmbit d’aplicació de la Llei 21/2013, de 9 de desembre d’avaluació ambiental, assenyala l’afirmació correcta:",
+    "opcions": [
+      "Inclou l’avaluació d’impacte ambiental ordinària i simplificada de plans o programes.",
+      "Inclou únicament l’avaluació ambiental estratègica ordinària de plans o programes.",
+      "Inclou l’avaluació ambiental estratègica de plans o programes i l’avaluació d’impacte ambiental de projectes.",
+      "Inclou únicament l’avaluació ambiental estratègica simplificada de plans o programes i l’avaluació d’impacte ambiental simplificada de projectes."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q73_a640314c",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 73,
+    "pregunta": "D’acord amb el text refós de la Llei d’urbanisme de Catalunya, els Plans d'Ordenació Urbanística Municipal (POUM) classifiquen tot el sòl del territori en...",
+    "opcions": [
+      "Sòl urbà, sòl no urbanitzable i sòl rústic.",
+      "Sòl urbà, sòl urbanitzable i sòl no urbanitzable.",
+      "Sòl urbà i sòl no urbanitzable.",
+      "Sòl urbà, sòl no urbà i sòl agrari."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q74_a17ac2d7",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 74,
+    "pregunta": "En quina categoria d’Espais Naturals de Protecció Especial (ENPE) estan incloses les capçaleres del Ter i del Freser i els Aiguamolls de l’Empordà?",
+    "opcions": [
+      "Parcs naturals.",
+      "Paratges naturals d’interès nacional.",
+      "Reserves naturals.",
+      "Parcs nacionals."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q75_cff80b32",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 75,
+    "pregunta": "Un projecte d’una granja amb capacitat superior a 2.000 places de porcí d’engreix queda sotmès, d’acord amb la Llei 21/2013, de 9 de desembre d’avaluació ambiental, a...",
+    "opcions": [
+      "L’annex III.",
+      "L’annex II.",
+      "L’annex I.",
+      "L’annex II.1"
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q76_58e1a3cb",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 76,
+    "pregunta": "Catalunya es divideix en dos àmbits pel que fa a la gestió de l’aigua: les conques internes o districte fluvial de Catalunya, i les intercomunitàries. L’Agència Catalana de l’Aigua té plenes competències en:",
+    "opcions": [
+      "Les conques internes, i en les intercomunitàries exerceix de policia del domini públic hidràulic.",
+      "Les conques internes i en les aigües subterrànies intercomunitàries.",
+      "Les conques intercomunitàries.",
+      "Les conques internes i en les intercomunitàries."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q77_12c36db5",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 77,
+    "pregunta": "D’acord amb la classificació d’una zona en funció de la freqüència d’inundació (període de retorn), es considera una zona d'inundació freqüent quan es tracta de zones inundables delimitades superiorment per la línia d’inundació de període de retorn de:",
+    "opcions": [
+      "20 anys",
+      "25 anys",
+      "50 anys",
+      "10 anys"
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q78_776bcfe5",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 78,
+    "pregunta": "En l’escenari actual de canvi climàtic a Catalunya, pel que fa a l’erosió, quina de les opcions següents és correcta?",
+    "opcions": [
+      "Pot augmentar a causa de la previsió de l’increment dels fenòmens meteorològics extrems.",
+      "La disminució de les precipitacions prevista reduirà els fenòmens d’erosió hídrica.",
+      "És un fenomen que podria accelerar-se a causa de la tendència a la desforestació.",
+      "No s'esperen canvis significatius a causa del canvi climàtic."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q79_aed01f5a",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 79,
+    "pregunta": "D’acord amb la Llei 12/1985, de 13 de juny, d'espais naturals, com es fa efectiva la declaració dels paratges nacionals d’interès nacional (PNIN) i dels parcs naturals (PN)?",
+    "opcions": [
+      "Per decret en el cas dels PNIN, i per llei en el cas dels PN.",
+      "Per llei en el cas dels PNIN, i per decret en el cas dels PN.",
+      "Per decret en ambdós casos.",
+      "Per llei en ambdós casos."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q80_aae1b3e1",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 80,
+    "pregunta": "Quins dels espais protegits següents formen part del Conveni de Ramsar sobre les zones humides d’importància internacional?",
+    "opcions": [
+      "El Parc Nacional d’Aigüestortes i l’Estany de Sant Maurici, el Delta del Llobregat i el Parc Natural del Delta de l’Ebre.",
+      "El Parc Natural de l’Alt Pirineu, el Parc Natural del Delta de l’Ebre, i el Parc Natural dels Aiguamolls de l’Empordà.",
+      "El Parc Nacional d’Aigüestortes i l’Estany de Sant Maurici, el Parc Natural del Delta de l’Ebre, l’Estany de Banyoles, i el Parc Natural dels Aiguamolls de l’Empordà.",
+      "El Parc Nacional d’Aigüestortes i l’Estany de Sant Maurici, el Delta del Llobregat i el Parc Natural dels Aiguamolls de l’Empordà."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q81_12201d32",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 81,
+    "pregunta": "Segons l'article 5 de la Llei 21/2013, de 9 de desembre, d'avaluació ambiental, quina és la definició d'òrgan ambiental\"?",
+    "opcions": [
+      "És l’òrgan de l'Administració pública que elabora, si escau, el document d'abast, que realitza l’anàlisi tècnica deis expedients d'avaluació ambiental i que formula les declaracions ambientals estratègiques, els informes ambientals estratègics, les declaracions d'impacte ambiental i els informes d'impacte ambiental.",
+      "És l’òrgan de l'Administració pública que pretén dur a terme un projecte deis compresos en l’àmbit d'aplicació d'aquesta Llei.",
+      "És l’òrgan de l'Administració pública que té les competències sobre l'activitat a la finalitat de la qual s'orienta un projecte.",
+      "És l’òrgan de l'Administració pública que té les competències per autoritzar un projecte o per controlar l'activitat deis projectes subjectes a declaració responsable o comunicació prèvia."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q82_48450a7d",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 82,
+    "pregunta": "Segons la Llei 12/1985 de 13 de juny, d'espais naturals, quina de les afirmacions següents respecte a les reserves naturals és falsa?",
+    "opcions": [
+      "Un dels objectius de les reserves naturals parcials pot ser conservar o constituir escales en les vies migratòries de la fauna salvatge.",
+      "No es permeten activitats que directament o indirectament poden perjudicar els valors naturals de protecció.",
+      "Són espais naturals d'extensió reduïda i de considerable interès científic que es declaren per preservar íntegrament el conjunt d'ecosistemes naturals que contenen o d'alguna de les seves parts.",
+      "Són espais naturals que presenten valors naturals qualificats, la protecció dels quals es fa amb l'objectiu d'aconseguir-ne la conservació d'una manera compatible amb l'aprofitament ordenat de llurs recursos i l'activitat de llurs habitants."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q83_7f09cf1f",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 83,
+    "pregunta": "D'acord ambles dades de la Generalitat de Catalunya, quin percentatge total de superfície corresponia als espais naturals protegits a Catalunya l'any 2022?",
+    "opcions": [
+      "El 43 %.",
+      "El 10 %.",
+      "El 21 %.",
+      "El 32 %."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q84_f81bad2c",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 84,
+    "pregunta": "Que representa el valor numèric associat a cada cel·la en un model de dades raster?",
+    "opcions": [
+      "Un identificador únic per a cada punt de territori.",
+      "Un atribut o propietat associats a l'espai que ocupa la cel·la.",
+      "El tipus de geometria.",
+      "Una coordenada geografica exacta."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q85_ffc9b260",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 85,
+    "pregunta": "Segons la Llei 21/2013, de 9 de desembre, d'avaluació ambiental, quins projectes no estan sotmesos a l'avaluació ambiental ordinària quan es desenvolupin en espais protegits de la Xarxa Natura 2000?",
+    "opcions": [
+      "Repoblació forestal amb especies al·lòctones que caracteritzin la vegetació preexistent, se separin de la dinàmica vegetal natural o canviïn el tipus de funcionalitat o l'ús del sol, sobre superfícies inferiors a 10 ha.",
+      "Parcs eòlics.",
+      "Pistes d'esquí, remuntadors i telefèrics, i construccions associades.",
+      "Tala de vegetació forestal per canviar el tipus de funcionalitat o d'ús del sol en superfícies superiors a 10 ha."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q86_936e7997",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 86,
+    "pregunta": "D'acord amb l'article 8 de la Directiva Habitats, en relació amb el Marc d'acció prioritària (MAP) de la Xarxa Natura 2000, quina de les afirmacions és falsa?",
+    "opcions": [
+      "Estableix les mesures necessàries per a la conservació de les especies i els habitats d’interès comunitari, que poden implicar, si escau, plans de gestió.",
+      "És un instrument de planificació estratègica plurianual.",
+      "És una avaluació de l'estat de conservació de les especies i els tipus d'habitat d’interès comunitari.",
+      "Es centra en les necessitats i prioritats de finançament de les mesures."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q87_20d79f04",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 87,
+    "pregunta": "D'acord amb el Decret 328/1992, de 14 de desembre, pel qual s'aprova el Pla d'espais d’interès natural, quina de les afirmacions següents és falsa?",
+    "opcions": [
+      "La vigència del Pla d'espais d’interès natural és de 10 anys.",
+      "El Pla d'espais d’interès natural té els efectes jurídics derivats de la seva condició de pla territorial sectorial.",
+      "La declaració de protecció especial d'un espai natural que no formi part de la xarxa del Pla d'espais d’interès natural, mitjançant alguna de les modalitats previstes a la Llei 12/1985, de 13 de juny, d'espais naturals, implica la seva inclusió automàtica en el Pla.",
+      "La Llei 12/1985, de 13 de juny, d'espais naturals, crea i regula la figura del Pla d'espais d’interès natural."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q88_84e621f5",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 88,
+    "pregunta": "Com contribueix el Pla territorial general de Catalunya a la conservació de la biodiversitat?",
+    "opcions": [
+      "El Pla dissenya una xarxa de municipis sostenibles.",
+      "El Pla reconverteix algunes zones industrials al voltant de zones urbanes i promou que aquestes siguin més sostenibles.",
+      "El Pla reconverteix algunes zones rurals en l’entorn de zones urbanes i promou que aquestes siguin més sostenibles.",
+      "El Pla estableix una xarxa d’espais naturals protegits i fomenta la connectivitat ecològica entre ells."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q89_c51e1db2",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 89,
+    "pregunta": "Quines regions biogeogràfiques terrestres de la xarxa Natura 2000 estan representades a Catalunya?",
+    "opcions": [
+      "L’alpina, l’atlàntica, la continental i la mediterrània.",
+      "L’alpina i la mediterrània.",
+      "L’alpina, la continental i la mediterrània.",
+      "L’atlàntica, la continental i la mediterrània."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q90_b6a7084a",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 90,
+    "pregunta": "En relació amb els efectes del canvi climàtic als boscos mediterranis de Catalunya, els períodes de sequera extrema associats a l’escalfament, juntament amb una major freqüència i intensitat dels grans focs, No modificarien l’estructura ni la composició dels ecosistemes forestals mediterranis, però sí que limitarien la capacitat de recuperació de la vegetació. No modificarien l’estructura dels ecosistemes forestals mediterranis, però sí la seva composició, i tampoc no limitarien la capacitat de recuperació de la vegetació. Podrien modificar l’estructura dels ecosistemes forestals mediterranis, però no la seva composició, i tampoc no limitarien la capacitat de recuperació de la vegetació. Podrien modificar l’estructura i la composició dels ecosistemes forestals mediterranis i limitar la capacitat de recuperació de la vegetació. D’acord amb el Decret 172/2022, de 20 de setembre, del Catàleg de fauna salvatge autòctona amenaçada i de mesures de protecció i de conservació de la fauna salvatge autòctona protegida, quins plans s’han d’elaborar, tramitar i aprovar per a les espècies i subespècies incloses en aquest Catàleg?",
+    "opcions": [
+      "Un pla de recuperació en el cas d'espècies i subespècies catalogades com a “en perill d'extinció”, i un pla de de conservació en el cas d'espècies i subespècies catalogades com a “vulnerables”.",
+      "Un pla de recuperació en el cas d'espècies i subespècies catalogades com a “vulnerables”, i un pla de de conservació en el cas d'espècies i subespècies catalogades com a “amenaçades”.",
+      "Un pla de recuperació en el cas d'espècies i subespècies catalogades com a “amenaçades”, i un pla de de conservació en el cas d'espècies i subespècies catalogades com a “vulnerables”.",
+      "Un pla de recuperació en el cas d'espècies i subespècies catalogades com a “en perill d'extinció”, i un pla de de conservació en el cas d'espècies i subespècies catalogades com a “amenaçades”."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q91_c822920a",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 91,
+    "pregunta": "Quina de les variables següents no intervé en l’elaboració del mapa bàsic de perill d’incendi forestal a Catalunya?",
+    "opcions": [
+      "La densitat viària en les superfícies forestals.",
+      "L’avaluació de la vegetació.",
+      "La continuïtat global.",
+      "La densitat d’ignicions."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q92_99e207ea",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 92,
+    "pregunta": "En relació amb un gran incendi forestal, quina de les opcions següents és correcta?",
+    "opcions": [
+      "Es caracteritza perquè són focs molt ràpids i constants, amb flancs estirats i cues poc intenses i lentes.",
+      "Rep aquesta consideració quan ha cremat més de 300 ha.",
+      "Manté de forma força sostinguda una velocitat, intensitat i/o longitud de flama que supera la capacitat del sistema d’extinció i que, per tant, ofereix escasses oportunitats d'extinció.",
+      "Es caracteritza perquè no es generen focus secundaris."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q93_625fc16c",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 93,
+    "pregunta": "En relació amb el mapa de perill bàsic d’incendi forestal, quina de les opcions següents és incorrecta?",
+    "opcions": [
+      "Considera el canvi climàtic com a factor determinant del perill.",
+      "Avalua el perill d’incendi forestal estructural.",
+      "Classifica els municipis de Catalunya de major a menor perill i n'indica un nivell concret. De l'1 al 4 correspondrien: l'1 a perill baix, i el 4 a extrem.",
+      "Prioritza la intensitat de l’incendi potencial per davant de la freqüència històrica."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q94_563ffb4c",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 94,
+    "pregunta": "Segons el Pla especial d’emergències per incendis forestals de Catalunya (INFOCAT), quin òrgan té la capacitat d’establir restriccions d’accessos als espais naturals de caràcter forestal en determinades circumstàncies?",
+    "opcions": [
+      "El director o directora general de Protecció Civil.",
+      "El Cos d’Agents Rurals.",
+      "El director o directora del Pla.",
+      "El Consell Assessor amb l’informe favorable del Comitè Tècnic."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q95_79729f64",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 95,
+    "pregunta": "Com es classifiquen els plans de protecció civil a Catalunya?",
+    "opcions": [
+      "En plans territorials, el Pla d’espais d’interès de Catalunya (PEIN) i plans d’autoprotecció.",
+      "En plans especials, plans urbanístics i plans d’autoprotecció.",
+      "En plans territorials, plans especials i plans d’autoprotecció.",
+      "En plans territorials, plans urbanístics i plans especials."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q96_2a2819ee",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 96,
+    "pregunta": "Què indiquen les estadístiques oficials sobre incendis a Catalunya des del 1970 fins a l’actualitat?",
+    "opcions": [
+      "Que ha augmentat el nombre de dies crítics de perill molt alt o extrem d’incendis, i que ha disminuït el nombre d’incendis menors de 0,1 ha.",
+      "Que han augmentat tant el nombre d’incendis com la superfície cremada.",
+      "Que es produeixen menys incendis, però que afecten una major superfície.",
+      "Que les mesures de prevenció d’incendis forestals només han estat efectives per evitar els incendis que es produeixen a l’estiu."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q97_e52246a9",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 97,
+    "pregunta": "Restaurar paral·lelament les zones explotades on s’està treballant en una activitat extractiva es coneix com a:",
+    "opcions": [
+      "Restauració simultània.",
+      "Restauració integrada.",
+      "Restauració sincronitzada.",
+      "Restauració insertada."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q98_18a56f97",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 98,
+    "pregunta": "El període de garantia d’una restauració és:",
+    "opcions": [
+      "L’espai de temps comprès entre la finalització de la restauració i la seva acceptació per part de l’òrgan ambiental.",
+      "L’espai de temps comprès entre la finalització de la restauració i la seva acceptació per part de l’òrgan miner.",
+      "L’espai de temps comprès entre l’acceptació de la restauració per part de l’òrgan ambiental i el retorn de la fiança.",
+      "L’espai de temps comprès entre la finalització de la restauració i la seva acceptació per part del propietari/ària del terreny."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q99_bf302ca0",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 99,
+    "pregunta": "En quin tipus d’espai protegit no es pot caçar?",
+    "opcions": [
+      "En el refugi de fauna salvatge.",
+      "En el parc natural.",
+      "En el paratge natural d’interès natural.",
+      "En la reserva natural."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q100_54834886",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 100,
+    "pregunta": "Quines espècies es troben dins de l’annex II de la Directiva hàbitat?",
+    "opcions": [
+      "Hàbitats d’interès comunitari i hàbitats d’interès comunitari prioritari.",
+      "Espècies d’interès comunitari, la seva recollida a la natura i l’explotació poden ser objecte de mesures de gestió.",
+      "Espècies d’interès comunitari i espècies d’interès comunitari prioritari.",
+      "Espècies d’interès comunitari que requereixen una protecció estricta."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q101_52d52e2e",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 101,
+    "pregunta": "Quines regions biogeogràfiques definides a la Directiva hàbitat es poden trobar a la geografia catalana?",
+    "opcions": [
+      "Mediterrània i Alpina.",
+      "Alpina i Atlàntica.",
+      "Mediterrània i Macaronèsica.",
+      "Mediterrània i Boreal."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q102_c962ec72",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 102,
+    "pregunta": "Quants espais de Xarxa Natura 2000 (ZEC i ZEPA) hi ha a Catalunya i quina superfície ocupen?",
+    "opcions": [
+      "118, que ocupen 1.069.514 hectàrees.",
+      "150, que ocupen 1.067.575 hectàrees.",
+      "100, que ocupen 1.050.000 hectàrees.",
+      "75, que ocupen 1.100.000 hectàrees."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q103_3b695235",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 103,
+    "pregunta": "Quina de les afirmacions següents és correcta?",
+    "opcions": [
+      "L’anàlisi del cicle de vida dels productes és un sistema de gestió ambiental utilitzat per les empreses capdavanteres en responsabilitat social empresarial.",
+      "El sistema EMAS III i la Norma UNE-EN-ISO-140001 fan referència a la necessitat de controlar processos per reduir-ne l'impacte ambiental.",
+      "En el sistema d’ecogestió EMAS III s’inclou un procediment de certificació.",
+      "L'EMAS III és una eina d'ús voluntari disponible per a organitzacions que operen exclusivament en sectors econòmics de la Unió Europea."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q104_b449b71e",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 104,
+    "pregunta": "Quins tres processos poden augmentar el risc d’extinció d’una població?",
+    "opcions": [
+      "Malalties, catàstrofes, abundància de preses potencials.",
+      "Consanguinitat, impacte de l’espècie humana, variacions ambientals.",
+      "Impacte de l’espècie humana, consanguinitat, clima estable.",
+      "Catàstrofes, variacions ambientals, bona qualitat de l’hàbitat."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q105_0f003063",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 105,
+    "pregunta": "Quin contingut específic ha de contenir el document ambiental d’un projecte que afecta un espai de la Xarxa Natura 2000:",
+    "opcions": [
+      "Un apartat específic per a l’avaluació de les seves repercussions en els hàbitats d’interès comunitari prioritari i espècies amenaçades, tenint en compte els objectius de conservació de l’espai.",
+      "Un apartat específic per a l’avaluació de les seves repercussions en el lloc, tenint en compte els objectius de conservació de l’espai .",
+      "Un apartat específic per a l’avaluació de les seves repercussions en els hàbitats d’interès comunitari i espècies animals amenaçades, tenint en compte els objectius de conservació de l’espai.",
+      "Un apartat específic per a l’avaluació de les seves repercussions en la flora i fauna amenaçades, tenint en compte els objectius de conservació de l’espai."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q106_9d88b3c3",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 106,
+    "pregunta": "Quines espècies es troben dins de l’annex IV de la Directiva hàbitat?",
+    "opcions": [
+      "Espècies d’interès comunitari que requereixen una protecció estricta.",
+      "Hàbitats d’interès comunitari i hàbitats d’interès comunitari prioritari.",
+      "Espècies d’interès comunitari i espècies d’interès comunitari prioritari.",
+      "Espècies d’interès comunitari, la seva recollida a la natura i l’explotació poden ser objecte de mesures de gestió"
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q107_c5d2ed24",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 107,
+    "pregunta": "Quines espècies es troben dins de l’annex V de la Directiva hàbitat?",
+    "opcions": [
+      "Hàbitats d’interès comunitari i hàbitats d’interès comunitari prioritari.",
+      "Espècies d’interès comunitari i espècies d’interès comunitari prioritari.",
+      "Espècies d’interès comunitari que requereixen una protecció estricta.",
+      "Espècies d’interès comunitari, la seva recollida a la natura i l’explotació poden ser objecte de mesures de gestió."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q108_f07c9214",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 108,
+    "pregunta": "D’acord amb la Directiva 2012/18/UE del Parlament Europeu i del Consell de 4 de juliol, relativa al control dels riscos inherents als accidents greus en què intervinguin substàncies perilloses i per la qual es modifica i ulteriorment deroga la Directiva 96/82/CE (Seveso), les instal·lacions es classifiquen en dos grups. En funció de quin criteri es realitza aquesta classificació?",
+    "opcions": [
+      "La quantitat de substàncies perilloses emmagatzemades o utilitzades i la seva perillositat intrínseca.",
+      "El nombre de treballadors que hi treballen.",
+      "La ubicació de les instal·lacions.",
+      "L'antiguitat de les instal·lacions."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q109_68f2297c",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 109,
+    "pregunta": "Quina és la normativa estatal de caràcter bàsic que regula l'accés a la informació ambiental?",
+    "opcions": [
+      "El Conveni d’Estocolm, de 25 de juny de 1998, sobre l’accés a la informació, la participació del públic en la presa de decisions i l’accés a la justícia en matèria de medi ambient.",
+      "La Llei 27/2006, de 18 de juliol, per la qual es regulen els drets d'accés a la informació, de participació pública i d’accés a la justícia en matèria de medi ambient.",
+      "La Llei 19/2014, de 18 de juliol, per la qual es regulen els drets d'accés a la informació, de participació pública i d’accés a la justícia en matèria de medi ambient.",
+      "La Llei 19/2014, del 29 de desembre, de transparència, accés a la informació pública i bon govern."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q110_49ac8c68",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 110,
+    "pregunta": "D’acord amb l’article 48 de la Llei 20/2009, de 4 de desembre, de prevenció i control ambiental de les activitats, quin és el termini màxim en què s'ha de dictar i notificar la resolució del procediment de llicència ambiental de les activitats susceptibles d'afectar el medi ambient, la seguretat i la salut de les persones, sense tenir en compte la possible suspensió del termini si es demana una esmena o una millora de la documentació?",
+    "opcions": [
+      "6 mesos",
+      "9 mesos",
+      "12 mesos",
+      "8 mesos"
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q111_96b7231d",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 111,
+    "pregunta": "En relació amb el Programa d’inspecció ambiental integrada de les activitats incloses en l’àmbit d’aplicació de la Llei 20/2009, del 4 de desembre, de prevenció i control ambiental de les activitats, quina de les afirmacions següents és correcta?",
+    "opcions": [
+      "Si una visita d’inspecció in situ fa patent un incompliment greu de les condicions de l’autorització ambiental integrada, la següent visita d’inspecció in situ s’ha de fer en un termini no superior a un any a comptar de la primera visita.",
+      "El Programa d’inspecció ambiental integrada, d’acord amb el Pla d’inspecció ambiental integrada, inclou la freqüència de les visites d’inspecció programades per a les activitats de l’annex I.1 i I.2.",
+      "El període entre dues visites d’inspecció in situ programades s’ha de basar en l’avaluació de riscos de les activitats. Per a les activitats que plantegin riscos més baixos, aquest període no pot ser superior a 3 anys.",
+      "La primera visita d’inspecció in situ s’ha de fer en el termini de 2 anys a comptar de l’inici de l’activitat."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q112_f4e8dff1",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 112,
+    "pregunta": "D’acord amb la Llei 21/2013, de 9 de desembre, d’avaluació ambiental, quin dels projectes següents s'ha de sotmetre directament al procediment d’avaluació d’impacte ambiental ordinària per a l'emissió de la declaració d’impacte ambiental?",
+    "opcions": [
+      "Instal·lacions industrials per a la producció de pesticides i productes farmacèutics, pintures i vernissos, elastòmers i peròxids.",
+      "Plantes industrials per a la producció de paper i cartró, amb una capacitat de producció superior a 100 t diàries.",
+      "Instal·lacions industrials per a la producció d'hidrogen electrolític, fotoelectrolític o fotocatalític a partir de fonts renovables.",
+      "Centrals tèrmiques i altres instal·lacions de combustió d'una potència tèrmica de, almenys, 300 MW."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q113_7e5c5f9a",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 113,
+    "pregunta": "Quin dels següents no és un dels objectius a assolir en relació amb la política mediambiental de la Unió Europea?",
+    "opcions": [
+      "La fiscalitat ambiental.",
+      "El foment de mesures a escala internacional destinades a fer front als problemes regionals o mundials del medi ambient i en particular a lluitar contra el canvi climàtic.",
+      "La utilització prudent i racional dels recursos naturals.",
+      "La conservació, la protecció i la millora de la qualitat del medi ambient."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q114_23cac302",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 114,
+    "pregunta": "En relació amb l’avaluació del cicle de vida com a eina metodològica, quina de les afirmacions següents no és correcta pel que fa a la seva aplicació?",
+    "opcions": [
+      "És una font d'informació per a la implantació de sistemes de gestió ambiental.",
+      "S’aplica per a l’elaboració dels criteris a complir per a les etiquetes ecològiques.",
+      "S’aplica exclusivament a l’ecodisseny per a productes.",
+      "La seva aplicació està estandarditzada mitjançant les normes UNE EN ISO 14.040:2006 i UNE EN ISO 14.044:2006."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q115_fb1f39f0",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 115,
+    "pregunta": "En relació amb els documents Best Available Techniques Reference Documents (BREFs) quina de les afirmacions següents no és correcta?",
+    "opcions": [
+      "Són vinculants per a les activitats afectades, prenent forma de Decisió d'Execució de la Comissió Europea.",
+      "Són els documents que recullen les millors tècniques disponibles (MTD) dels diferents sectors industrials i són d’àmbit europeu.",
+      "El procés d’establiment de les millors tècniques disponibles (MTD) es basa en l’intercanvi d’informació en l’àmbit de tota la Unió Europea.",
+      "L'objectiu d'aquests documents és servir de referència per al sector industrial al qual siguin aplicables, per exemple per preparar la documentació per a la sol·licitud d’autorització ambiental, i també servir de referència per a les autoritats ambientals responsables d'establir els valors límit d'emissió en l'autorització ambiental."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q116_b2570290",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 116,
+    "pregunta": "En relació amb el diòxid de sofre (SO2)com a contaminant atmosfèric present en l'aire, quina de les afirmacions següents és incorrecta?",
+    "opcions": [
+      "Les principals fonts d’emissió de SO2 són refineries de petroli, transport (principalment vehicles de gasoil), centrals tèrmiques, processos de combustió de carburants líquids (fuel) i sòlids (carbó), cimenteres...",
+      "És un gas bastant estable, incolor i molt soluble en aigua.",
+      "Intervé en la formació de la boira fotoquímica.",
+      "És un dels principals contaminants que, conjuntament amb els òxids de nitrogen, forma part dels processos d’acidificació (pluja àcida)."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q117_caaffa91",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 117,
+    "pregunta": "Quina mesura correctora de les emissions en xemeneia no és adient per a la minimització de partícules sòlides?",
+    "opcions": [
+      "Torres d’adsorció",
+      "Electrofiltres",
+      "Filtres de mànegues",
+      "Rentadors humits"
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q118_8d9667ea",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 118,
+    "pregunta": "D'acord amb el Decret 322/1987, de 23 de setembre, de desplegament de la Llei 22/1983, de 21 de novembre, de Protecció de l'Ambient Atmosfèric, pel que fa a la contaminació atmosfèrica, el conjunt d'informacions sobre els elements que constitueixen el medi i que permeten avaluar la incidència de les emissions de contaminants vessats a l'atmosfera en una zona determinada i dictaminar sobre la seva influència fa referència al concepte:",
+    "opcions": [
+      "Mapa de vulnerabilitat i capacitat del territori (MVCT)",
+      "Mapa de qualitat de l’aire (MQA)",
+      "Zona de protecció especial (ZPE)",
+      "Zona de qualitat de l’aire (ZQA)"
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q119_f9ba8541",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 119,
+    "pregunta": "Des de fa uns mesos heu començat a treballar com a químic/a en un departament de la Generalitat de Catalunya i us trobeu amb les situacions següents que heu de resoldre: La persona responsable de medi ambient d’una empresa, l’activitat principal de la qual és la fabricació de paper, que dins del catàleg d’activitats potencialment contaminants de l’atmosfera (CAPCA) està classificada en el CAPCA A i, en relació a la freqüència general en què s’ha de realitzar el control d’emissions d’un focus emissor a l’atmosfera, està classificada com a CAPCA C 03 01 03 03, consulta al Departament de Territori, Habitatge i Transició Ecològica amb quina freqüència ha de realitzar el control de les seves emissions. D’acord amb el Reial decret 100/2011, de 28 de gener, pel qual s’actualitza el catàleg d’activitats potencialment contaminants de l’atmosfera, indiqueu quina és la resposta correcta:",
+    "opcions": [
+      "Cada any",
+      "Cada 5 anys",
+      "Cada 3 anys",
+      "Cada 2 anys"
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q120_f288e681",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 120,
+    "pregunta": "La direcció d’una activitat econòmica ubicada a Catalunya que es dedica a la fabricació de productes ceràmics mitjançant enfornada, amb una capacitat de producció de 90 tones per dia, té la intenció d’implementar el sistema comunitari de gestió i auditoria mediambiental (EMAS). La persona responsable de medi ambient ha de dur a terme una anàlisi ambiental per identificar els aspectes ambientals de l’activitat. Indiqueu quina de les respostes no seria un aspecte ambiental de l’activitat:",
+    "opcions": [
+      "Les emissions a l’aire del focus emissor associat al forn.",
+      "La contaminació de la llera del riu amb hidrocarburs per un abocament accidental del combustible emmagatzemat en bidons al pati de l’activitat.",
+      "La producció de residus perillosos.",
+      "L’emissió de gasos amb efecte hivernacle."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q121_7adb2b6f",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 121,
+    "pregunta": "En el decurs de la visita in situ d’una actuació d’inspecció ambiental integrada en una instal·lació petroquímica, el personal inspector constata els aspectes no conformes següents, que no han estat corregits amb posterioritat: Hi ha focus emissors que no disposen de llibre de registre electrònic. L’etiquetatge d’alguns dels residus perillosos emmagatzemats no és correcte d’acord amb l’establert en la normativa sectorial aplicable. Després de la revisió de tota la documentació emesa com a resultat de la visita esmentada, la unitat d’inspecció no constata cap altra irregularitat i emet un primer informe d’inspecció que es notifica al titular de l’empresa perquè en un termini de 15 dies presenti les al·legacions que consideri oportunes. En aplicació dels criteris establerts en el document Taula guia per a la qualificació dels incompliments en els informes d’inspeccions ambientals integrades (versió 8), quina hauria de ser la declaració d’aquest informe d’inspecció?",
+    "opcions": [
+      "Es garanteix un compliment adequat de les condicions fixades en l’autorització ambiental integrada. S’han constatat incompliments. En tots els casos, els incompliments es qualifiquen com a poc importants.",
+      "No es garanteix un compliment adequat de les condicions fixades en l’autorització ambiental integrada. S’han constatat incompliments. Almenys un dels incompliments s’ha qualificat com a important.",
+      "Es compleixen satisfactòriament les condicions fixades en l’autorització ambiental integrada. No s’han constatat incompliments o els incompliments identificats han estat corregits pel titular de la instal·lació.",
+      "No es pot emetre informe d’inspecció fins que l’empresa acrediti la correcció o regularització dels aspectes no conformes."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q122_89d1061d",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 122,
+    "pregunta": "L’autorització ambiental d’una activitat per al tractament de superfícies de metalls i plàstics estableix, per al seu forn d’imprimació, uns valors límit d’emissió (VLE) a l’aire de: 150 mg/Nm3 per al monòxid de carboni. 130 mg/Nm3 per als òxids de nitrogen, expressats com a diòxid de nitrogen. El darrer informe de control de les emissions del forn d’imprimació emès per una entitat col·laboradora habilitada reporta un valor de concentració dels gasos de 140 ppm de monòxid de carboni i 75 ppm de diòxid de nitrogen. En relació amb la declaració de compliment dels valors límit d’emissió (VLE), quina de les afirmacions següents és la correcta?",
+    "opcions": [
+      "Les emissions del forn d’imprimació compleixen el VLE per als òxids de nitrogen, expressats com a diòxid de nitrogen, però no compleixen el VLE establert per al monòxid de carboni.",
+      "Les emissions del forn d’imprimació no compleixen els VLE establerts per al monòxid de carboni ni per als òxids de nitrogen, expressats com a diòxid de nitrogen.",
+      "Les emissions del forn d’imprimació compleixen els VLE establerts per al monòxid de carboni i per als òxids de nitrogen, expressats com a diòxid de nitrogen.",
+      "Les emissions del forn d’imprimació compleixen el VLE establert per al monòxid de carboni, però no compleixen el VLE establert per als òxids de nitrogen, expressats com a diòxid de nitrogen."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q123_0a85257f",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 123,
+    "pregunta": "En el marc de l’actuació d’inspecció ambiental integrada en una instal·lació de gestió de residus perillosos ubicada a Catalunya, la persona responsable de la planta presenta davant del personal inspector el darrer informe de mesures acústiques per acreditar el compliment dels nivells d’immissió sonora establerts en l’autorització ambiental. L’informe l’ha emès una empresa especialitzada en matèria de mesuraments acústics. Quin dels criteris següents garanteix la validesa de l’informe de control al personal inspector?",
+    "opcions": [
+      "L’empresa responsable del mostreig està habilitada per l’òrgan competent en matèria de medi ambient d’una altra comunitat autònoma.",
+      "L’empresa responsable del mostreig està autoritzada per l’ajuntament del municipi on està ubicada, com a administració competent en matèria de sorolls i vibracions.",
+      "L’empresa responsable del mostreig consta en el Registre d’entitats col·laboradores de medi ambient com a entitat de control en l’àmbit de la prevenció de la contaminació acústica.",
+      "L’empresa responsable del mostreig està acreditada per l’Entidad Nacional de Acreditación (ENAC) com a laboratori d’assajos acústics."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q124_edb23fd8",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 124,
+    "pregunta": "S’ha d’avaluar l’impacte ambiental en una planta de tractament de gas natural en la indústria petroquímica. Quin és un dels impactes ambientals més significatius associats amb aquestes plantes?",
+    "opcions": [
+      "Contaminació acústica per sobre de tots els llindars legals.",
+      "Emissions de diòxid de sofre (SO₂) durant l'eliminació de l'àcid sulfhídric (H₂S).",
+      "Generació de grans quantitats de residus sòlids urbans.",
+      "Alteració del paisatge per excavacions profundes."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q125_22983bdd",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 125,
+    "pregunta": "Un cop l’empresa ha establert la planificació de l’activitat preventiva, d’acord amb el Reial decret 39/1997, de 17 de gener, pel qual s’aprova el reglament dels serveis de prevenció, quin és el termini màxim per realitzar la primera auditoria del sistema de prevenció?",
+    "opcions": [
+      "6 mesos",
+      "24 mesos",
+      "12 mesos",
+      "3 mesos"
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q126_10c21d2d",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 126,
+    "pregunta": "Una empresa vol comercialitzar una pintura d’aigua que conté una quantitat de 30 mg/ml de compostos orgànics volàtils (COV). D’acord amb el Reial decret 117/2003, de 31 de gener, sobre limitació d'emissions de compostos orgànics volàtils causades per l'ús de dissolvents en determinades activitats, es podrà comercialitzar aquesta pintura?",
+    "opcions": [
+      "No, perquè està per sobre del valor màxim permès de 100 g/L.",
+      "Sí, perquè està per sota del valor màxim permès de 50 g/L.",
+      "Sí, perquè no hi ha limitació de contingut de COV per a les pintures d’aigua.",
+      "Sí, perquè està per sota del valor màxim permès de 25 g/L."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q127_6c885bf1",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 127,
+    "pregunta": "Una activitat dedicada a la fosa d’acers bruts i laminació, classificada a l’annex I.1 de la Llei 20/2009, de 4 de desembre, de prevenció i control ambiental de les activitats, planeja la implementació d’una instal·lació de cogeneració per a la producció d’energia elèctrica per a ús propi amb una potència nominal total de 45 megawatts tèrmics (MWt). Aquesta actuació no incrementa la capacitat productiva de la fàbrica. No es generen nous residus ni s’incrementa la producció de residus de l’establiment. Tampoc hi ha canvis en l’enllumenat de l’establiment. No hi ha nous punts d’abocaments d’aigües residuals. Pel que es refereix a les emissions a l’aire, la nova instal·lació no comportarà l’emissió de nous contaminants i l’emissió màssica prevista no seria superior al 15 % del total de les emissions atmosfèriques produïdes en cadascun dels focus emissors. Quin procediment s’ha de seguir per a la regularització del seu permís ambiental per incorporar la nova instal·lació?",
+    "opcions": [
+      "Es tracta d’un canvi substancial i, per tant, aquesta modificació està subjecta a autorització ambiental i a declaració d’impacte ambiental per part de l’òrgan ambiental competent de la Generalitat.",
+      "Es tracta d’un canvi no substancial amb conseqüències per a les persones i per al medi ambient i, per tant, cal comunicar-ho a l’òrgan ambiental competent de l’ajuntament on es localitza l’activitat.",
+      "Atesa la seva potència tèrmica, no cal fer res i pot posar-se en marxa sense cap tipus d’autorització.",
+      "Es tracta d’un canvi no substancial amb conseqüències per a les persones i per al medi ambient i, per tant, cal comunicar-ho a l’òrgan ambiental competent de la Generalitat."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q128_d62299b1",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 128,
+    "pregunta": "D’acord amb l’article 3 del Decret 60/2015, de 28 d'abril, sobre les entitats col·laboradores de medi ambient, quin és l’àmbit d’habilitació de les entitats de control a qui correspon la comprovació inicial i la comprovació periòdica, o la inspecció, segons escaigui, del compliment de les condicions fixades en els permisos ambientals, incloent-hi, si escau, la determinació de les emissions?",
+    "opcions": [
+      "Prevenció i control ambiental de les activitats.",
+      "Inspecció i control ambiental de les activitats.",
+      "Control i vigilància de la contaminació de les activitats.",
+      "Prevenció de la contaminació atmosfèrica i acústica de les activitats."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q129_5e249758",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 129,
+    "pregunta": "Quins sistemes de mesurament a les xemeneies tenen l’obligació d'estar connectats a la Xarxa d'Emissions Atmosfèriques de Catalunya?",
+    "opcions": [
+      "Tots els sistemes automàtics de mesurament exigits segons l'article 28 del Decret 139/2018, de 3 de juliol, sobre els règims d'intervenció ambiental atmosfèrica dels establiments on es desenvolupin activitats potencialment contaminants de l'atmosfera.",
+      "Els sistemes d'automatització mesurables instal·lats a la xemeneia exigits segons l'article 28 del Decret 139/2018, de 3 de juliol, sobre els règims d'intervenció ambiental atmosfèrica dels establiments on es desenvolupin activitats potencialment contaminants de l'atmosfera.",
+      "Tots els sistemes automàtics de mesurament exigits segons l'article 28 del Decret 319/2018, de 3 de juliol, sobre els règims d'intervenció ambiental atmosfèrica dels establiments on es desenvolupin activitats potencialment contaminants de l'atmosfera.",
+      "Tots els sistemes manuals de mesurament exigits segons l'article 28 del Decret 319/2018, de 3 de juliol, sobre els règims d'intervenció ambiental atmosfèrica dels establiments on es desenvolupin activitats potencialment contaminants de l'atmosfera."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q130_7bf9b31e",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 130,
+    "pregunta": "D’acord amb l’article 3 del Decret 322/1987, de 23 de setembre, de desplegament de la Llei de protecció de l’ambient atmosfèric, a què fa referència la definició: \"Pel que fa a la contaminació atmosfèrica, és el conjunt d'informacions sobre els elements que constitueixen el medi i que permeten avaluar la incidència de les emissions de contaminants vessats a l'atmosfera en una zona determinada i dictaminar sobre la seva influència\"?",
+    "opcions": [
+      "A la Xarxa de Vigilància i Previsió de la Contaminació Atmosfèrica.",
+      "Al Mapa de vulnerabilitat i de capacitat del territori.",
+      "A l'Índex Català de Qualitat de l'Aire (ICQA).",
+      "A la distribució atmosfèrica de Catalunya."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q131_f28b4699",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 131,
+    "pregunta": "Indiqueu la resposta correcta sobre la Xarxa de Vigilància i Previsió de la Contaminació Atmosfèrica (XVPCA):",
+    "opcions": [
+      "La XVPCA és un sistema de detecció dels nivells d'emissió dels principals contaminants.",
+      "Les estacions de la XVPCA tenen equips automàtics i equips manuals.",
+      "Les estacions de la XVPCA tenen equips automàtics i manuals i ambdós tipus realitzen els mesuraments de forma contínua en el temps. Per tal d’obtenir el resultat final es fa l’anàlisi de la mostra extreta dels equips en un laboratori.",
+      "Va ser creada per la Llei 20/2009, de 4 de desembre, de contaminació atmosfèrica."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q132_387dcf1e",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 132,
+    "pregunta": "D’acord amb el Pla especial d'actuació en situació d'alerta i eventual sequera, aprovat per l’Acord GOV/1/2020, de 8 de gener, quines són les mesures de gestió que s’han d’aplicar als estats que defineix de sequera hidrològica?",
+    "opcions": [
+      "Alerta, excepcionalitat i emergència.",
+      "Prealarma, alarma, excepcionalitat i emergència.",
+      "Alarma, excepcionalitat i emergència.",
+      "Alerta, urgència i emergència."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q133_20658d59",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 133,
+    "pregunta": "En relació amb els òxids de nitrogen (NOx) com a contaminants atmosfèrics presents en l'aire, quina de les afirmacions següents és incorrecta?",
+    "opcions": [
+      "Poden reaccionar amb aigua donant lloc a processos d’acidificació del medi.",
+      "Tenen un color marronós i una olor irritant.",
+      "Intervenen en la formació de la boira fotoquímica.",
+      "Provenen només de processos antropogènics."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q134_8d941e36",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 134,
+    "pregunta": "D’acord amb l’article 7 de la Llei 22/1983, de 21 de novembre, de protecció de l’ambient atmosfèric, com serà declarada la zona afectada si, per determinades situacions meteorològiques esporàdiques o per causes accidentals, s'ultrapassen els nivells d'immissió fixats amb caràcter general?",
+    "opcions": [
+      "Zona d'Intervenció Especial.",
+      "Zona de Protecció Especial.",
+      "Zona d'Atenció Especial.",
+      "Zona d'Alerta Especial."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q135_8eda724c",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 135,
+    "pregunta": "Quina de les afirmacions següents sobre els sistemes de depuració d'aigües residuals és incorrecta?",
+    "opcions": [
+      "La funció principal del digestor de fangs és obtenir un fang apte principalment per a l’agricultura, exclusivament mitjançant un procés de digestió aeròbica.",
+      "En aquells casos on es necessiti un tractament addicional per aconseguir la qualitat per a la reutilització de l’aigua tractada per a reg o altres usos, o a causa de la presència de contaminants específics s’afegeixen tractaments anomenats terciaris, entre els quals es poden incloure tractaments basats en filtració a través de membranes.",
+      "En general, els sistemes de tractament biològics disposen d’un pretractament per a l’eliminació de sòlids i greixos, i en alguns casos es pot trobar la presència d’un decantador primari.",
+      "Un filtre verd és un terreny cobert de cultius agrícoles o plantacions forestals sobre el qual se situen periòdicament aigües residuals procedents de petits nuclis urbans, amb la finalitat d'aconseguir la seva depuració mitjançant l'acció conjunta del sòl, microorganismes i plantes, a través d’una triple acció física, química i biològica."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q136_67aa451f",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 136,
+    "pregunta": "D’acord amb l’article 8 de la Llei 16/2002, de 28 de juny, de protecció contra la contaminació acústica, com pot declarar l’Ajuntament una àrea amb elevada contaminació acústica a causa de la presència de nombroses activitats i del soroll generat al seu voltant?",
+    "opcions": [
+      "Zona de soroll.",
+      "Zona de sensibilitat acústica alta (A).",
+      "Zona acústica de règim especial (ZARE).",
+      "Zona d’especial protecció de la qualitat acústica (ZEPQA)."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q137_2dd833c6",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 137,
+    "pregunta": "Quin any la Generalitat de Catalunya va crear el Distintiu de garantia de qualitat ambiental?",
+    "opcions": [
+      "2004.",
+      "1994.",
+      "1990.",
+      "2000."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q138_cca834d4",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 138,
+    "pregunta": "D’acord amb el Reglament de la Llei 16/2002, de 28 de juny, de protecció contra la contaminació acústica, aprovat pel Decret 176/2009, de 10 de novembre, en un mesurament en ambient interior d’immissió sonora produïda per una activitat, quina d’aquestes afirmacions és incorrecta?",
+    "opcions": [
+      "Hi ha dos períodes horaris amb valors límits d’immissió diferenciats: el dia (de les 7 hores a les 21 hores) i la nit (de les 21 hores a les 7 hores).",
+      "Abans i després dels mesuraments s’ha de fer una verificació acústica de la cadena de mesurament mitjançant un calibrador acústic.",
+      "Els mesuraments s’han de fer en dependències d’ús sensible al soroll com dormitoris, sales d’estar o dependències assimilables.",
+      "El mesurament en ambient interior es mesura quan el soroll prové d’emissors acústics situats en el mateix edifici, en edificis contigus al receptor o quan hi ha una transmissió via estructural."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q139_349f02a7",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 139,
+    "pregunta": "En quin programa ha de participar una entitat privada que vol compensar voluntàriament les seves emissions de carboni i millorar alhora els serveis ecosistèmics del territori?",
+    "opcions": [
+      "Sistema de Crèdits Climàtics de Catalunya.",
+      "Règim europeu de comerç de drets d’emissió.",
+      "Programa voluntari de compensació d’emissions de gasos amb efecte d’hivernacle.",
+      "Programa d’acords voluntaris."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q140_8d41aa76",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 140,
+    "pregunta": "Indiqueu la resposta correcta sobre el fenomen de la inversió tèrmica:",
+    "opcions": [
+      "Es produeix quan la capa d’aire superior té una temperatura més baixa que la capa inferior.",
+      "La inversió tèrmica només pot ser de subsidència.",
+      "Provoca el boirum fotoquímic sobre les ciutats.",
+      "Facilita la dispersió dels contaminants atmosfèrics."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q141_1ae48b82",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 141,
+    "pregunta": "La Llei de protecció de l’ambient atmosfèric de Catalunya:",
+    "opcions": [
+      "Està totalment derogada per la Llei 34/2007, de 15 de novembre, (llei estatal).",
+      "És una llei del 2003.",
+      "És la Llei 22/1983, 21 novembre, i està desenvolupada pel Decret 322/1987, de 23 de setembre.",
+      "Està desenvolupada pel Decret 323/1987, de 23 de setembre."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q142_599e922b",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 142,
+    "pregunta": "Un dels incentius de tenir implantat i certificat un sistema voluntari de gestió ambiental d’acord amb la norma ISO 14001 és:",
+    "opcions": [
+      "L’exempció de la garantia financera de responsabilitat ambiental per aquells operadors susceptibles d’ocasionar danys, la reparació dels quals s’avaluï per una quantitat compresa entre 300.000 i 2.000.000 d’euros.",
+      "L’exempció del control periòdic en el cas de les activitats incloses a l’annex II de la Llei 20/2009, del 4 de desembre, de prevenció i control ambiental de les activitats.",
+      "La reducció de la periodicitat de les inspeccions ambientals integrades en el cas de les activitats subjectes a la Directiva d’emissions industrials.",
+      "L a bonificació en les taxes pels serveis d’autorització ambiental d’activitats."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q143_edef6674",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 143,
+    "pregunta": "D’acord amb l’article 6 del Reglament de la Llei 16/2002, de 28 de juny, de protecció contra la contaminació acústica, aprovat pel Decret 176/2009, de 10 de novembre, quina administració és competent per controlar la contaminació acústica dels trens dels Ferrocarrils de la Generalitat de Catalunya (FGC)?",
+    "opcions": [
+      "L’ajuntament de cada municipi pel qual circulin aquests trens.",
+      "El departament de la Generalitat de Catalunya amb competències en matèria de contaminació acústica.",
+      "Ferrocarrils de la Generalitat de Catalunya, en qualitat d’administració responsable titular de la infraestructura ferroviària.",
+      "L’Administració general de l’Estat, atès que es tracta d’una infraestructura d’interès general."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q144_18fc010d",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 144,
+    "pregunta": "D’acord amb l’article 68 ter de la Llei 20/2009, del 4 de desembre, de prevenció i control ambiental de les activitats, quina de les afirmacions següents és correcta en relació amb el Programa d'inspecció ambiental integrada?",
+    "opcions": [
+      "Les visites d'inspecció in situ les ha de fer el personal de l'Administració encarregat de les funcions d'inspecció ambiental integrada, sens perjudici que també les puguin fer personal adscrit a entitats col·laboradores de l'Administració ambiental específicament designades a aquest efecte.",
+      "El Programa d’inspecció ambiental integrada és un document marc de caràcter pluriennal que ofereix les orientacions estratègiques en matèria de comprovació i verificació de les activitats subjectes a autorització ambiental amb la finalitat de garantir el compliment de les condicions ambientals establertes per la legislació ambiental i per les autoritzacions ambientals",
+      "El període entre dues visites d’inspecció in situ programades s’ha de basar en l’avaluació de riscos de les activitats. Per a les activitats que plantegin els riscos més alts, aquest període no pot ésser superior a dos anys. Per a les que plantegin riscos més baixos, aquest període no pot ésser superior a quatre anys.",
+      "El Programa d’inspecció ambiental integrada, d’acord amb el Pla d’inspecció ambiental integrada, estableix la freqüència de les visites d’inspecció programades per a les activitats de l’annex I.1 i I.2."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q145_6abb641b",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 145,
+    "pregunta": "D’acord amb la Llei 21/2013, de 9 de desembre, d’avaluació ambiental, quin dels projectes següents s'ha de sotmetre directament al procediment d’avaluació d’impacte ambiental ordinària per a l'emissió de la declaració d’impacte ambiental?",
+    "opcions": [
+      "Planta industrial per a la producció de paper i cartró, amb una capacitat de producció superior a 200 tones diàries.",
+      "Emmagatzematge subterrani per a ús industrial de gasos combustibles.",
+      "Instal·lació per al sacrifici, especejament o esquarterament d'animals.",
+      "Instal·lació industrial d’emmagatzematge de productes petrolífers, petroquímics i químics."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q146_841fa4b9",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 146,
+    "pregunta": "Segons la Directiva 2010/75/UE del Parlament Europeu i del Consell, de 24 de novembre, sobre emissions industrials i emissions derivades de la cria de bestiar (prevenció i control integrats de la contaminació), com es defineixen les millors tècniques disponibles?",
+    "opcions": [
+      "Les tècniques més eficaces per assolir un alt nivell general de protecció del medi ambient en el seu conjunt, un alt nivell de protecció de la salut humana i uns estalvis de costos superiors als que s'obtindrien amb altres tècniques.",
+      "La fase més eficaç i avançada de desenvolupament de les activitats i de les seves modalitats d'explotació, que demostrin la capacitat pràctica de determinades tècniques per constituir la base dels valors límit d'emissió i altres condicions del permís destinades a evitar o, quan no sigui practicable, reduir les emissions i l’impacte en el conjunt del medi ambient.",
+      "Les tècniques desenvolupades a una escala que en permeti la seva aplicació en el context del sector industrial corresponent, en condicions econòmicament i tècnicament viables, tenint en compte els costos i els beneficis tant si les tècniques s'utilitzen o es produeixen en l’estat membre corresponent com si no, sempre que el titular pugui tenir-hi accés en condicions raonables.",
+      "La tècnica nova per a una activitat industrial que, si es desenvolupa comercialment, pot aportar un nivell general més elevat de protecció de la salut humana i el medi ambient o almenys el mateix nivell de protecció de la salut humana i el medi ambient i uns estalvis de costos superiors als que s'obtindrien amb altres tècniques disponibles existents."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q147_df0565a0",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 147,
+    "pregunta": "Quin d’aquests destins finals de fangs de depuradora no es considera valorització del residu?",
+    "opcions": [
+      "Utilització com a combustible.",
+      "Dipòsit controlat.",
+      "Fabricació de fertilitzants.",
+      "Jardineria."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q148_b3d9e400",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 148,
+    "pregunta": "A quin àmbit territorial s’aplica el Pla de qualitat de l'aire, horitzó 2027, aprovat pel Decret 132/2024, de 30 de juliol?",
+    "opcions": [
+      "A la ciutat de Barcelona.",
+      "A l’Àrea Metropolitana de Barcelona.",
+      "A tot el territori de Catalunya.",
+      "A la conurbació de Barcelona."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q149_0ea2a6c4",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 149,
+    "pregunta": "Quins d’aquests contaminants estan regulats per la normativa de qualitat de l’aire establerta en el Reial decret 102/2011, de 28 de gener, relatiu a la mill ora de la qualitat de l’aire?",
+    "opcions": [
+      "PM1; PM25; antimoni; hidrocarburs policíclics.",
+      "PM1; PM25; bismut; alfa aromàtics.",
+      "PM1; PM25; brom; hidrocarburs policíclics.",
+      "PM10; PM2,5; arsènic; hidrocarburs aromàtics policíclics."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q150_28d86382",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 150,
+    "pregunta": "D’acord amb el vigent Pla especial d’emergències per accidents en el transport de mercaderies perilloses per carretera i ferrocarril a Catalunya (TRANSCAT), quins són els factors que marquen el risc en el transport de mercaderies perilloses?",
+    "opcions": [
+      "La territorialitat, la diversitat de mercaderies i l’estat de les vies de comunicació.",
+      "La concentració de mercaderies, la temporalitat i la territorialitat.",
+      "La temporalitat, la territorialitat i la diversitat de mercaderies.",
+      "L’estat de les vies de comunicació, la temporalitat i la concentració de mercaderies."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q151_0a49926c",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 151,
+    "pregunta": "D’acord amb l’article 4 del Decret 190/2015, de 25 d’agost, de desplegament de la Llei d’ordenació ambiental de l’enllumenament per a la protecció del medi nocturn, el flux d’hemisferi superior instal·lat d’un llum (FHSinst):",
+    "opcions": [
+      "S’expressa en lúmens (lm).",
+      "S’expressa en tant per cent (%).",
+      "S’expressa en lux (lx).",
+      "S’expressa en candeles (cd)."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q152_49343dd2",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 152,
+    "pregunta": "Quina de les opcions següents és correcta, en relació amb el paper de l’òrgan competent de les comunitats autònomes en el comerç de drets d'emissió de gasos amb efecte d’hivernacle de la UE respecte a les instal·lacions fixes?",
+    "opcions": [
+      "El seguiment i notificació de les instal·lacions localitzades al seu territori i que, atès el seu volum d’emissions, no són autoritzades per l'Oficina Espanyola de Canvi Climàtic.",
+      "L’autorització, seguiment i notificació de les instal·lacions localitzades al seu territori.",
+      "L’assignació gratuïta de drets d'emissió a les instal·lacions localitzades al seu territori.",
+      "Les comunitats autònomes no tenen cap competència en aquesta matèria."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q153_70299c9b",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 153,
+    "pregunta": "Quines són les tres dimensions que s’han d’abordar en els plans nacionals d’energia i clima?",
+    "opcions": [
+      "La seguretat energètica, el mercat interior de l’energia i l’equilibri econòmic.",
+      "L’eficiència energètica, la innovació i la cooperació transoceànica.",
+      "El mercat interior de l’energia, la investigació i l’equilibri econòmic.",
+      "La descarbonització, l’eficiència energètica i la seguretat energètica."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q154_70080ed8",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 154,
+    "pregunta": "L'article 144 de l'Estatut d'autonomia de Catalunya de 2006 estableix que correspon a la Generalitat la competència compartida en matèria de medi ambient i la competència per a l’establiment de normes addicionals de protecció. D’entre les opcions següents, n’hi ha una que no està inclosa entre les competències compartides. Quina és?",
+    "opcions": [
+      "L'assignació dels drets d'emissió dels gasos amb efecte d'hivernacle dels establiments localitzats a Catalunya.",
+      "La regulació sobre prevenció i correcció de la generació de residus amb origen o destinació a Catalunya i sobre la gestió i el trasllat d’aquests residus i la seva disposició final.",
+      "L’establiment i la regulació de mesures de sostenibilitat, fiscalitat i recerca ambientals.",
+      "La promoció de les qualificacions relatives a productes, activitats, instal·lacions, infraestructures, procediments, processos productius o conductes respectuosos amb el medi."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q155_b10e3414",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 155,
+    "pregunta": "D’acord amb l’article 5 del Decret 60/2015, de 28 d'abril, sobre les entitats col·laboradores de medi ambient, quin requisit han de complir aquestes entitats per operar a Catalunya?",
+    "opcions": [
+      "Han d’estar autoritzades per l’Administració ambiental competent en la matèria inspeccionada per l’entitat.",
+      "Han d’estar habilitades per la direcció general competent en matèria d’entitats col·laboradores de medi ambient.",
+      "Han d’estar acreditades per l’Entitat Nacional d’Acreditació (ENAC) o per qualsevol altre organisme nacional d’acreditació de la Unió Europea i, a més, habilitades per la direcció general competent en matèria d’entitats col·laboradores.",
+      "Han d’estar acreditades per l’Entitat Nacional d’Acreditació (ENAC) o per qualsevol altre organisme nacional d’acreditació de la Unió Europea."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q156_c09f2aee",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 156,
+    "pregunta": "D’acord amb l’article 10 de la Llei 22/1983, de 21 de novembre, de protecció de l’ambient atmosfèric, quina mesura s’ha de formular per al sector del territori declarat com a Zona de Protecció Especial?",
+    "opcions": [
+      "Un pla d’actuació que ha d'ésser aprovat pel Consell Executiu de la Generalitat de Catalunya, seguit el tràmit d'informació pública, que ha d'ésser d'un mes.",
+      "Un protocol d’actuació que ha d'ésser aprovat pel Consell Executiu de la Generalitat de Catalunya, seguit el tràmit d'informació pública, que ha d'ésser d'un mes.",
+      "Un pla d’activació que ha d'ésser aprovat pel Consell Executiu de la Generalitat de Catalunya, seguit el tràmit d'informació pública, que ha d'ésser de tres mesos.",
+      "Un protocol d’activació que ha d'ésser aprovat pel Consell Executiu de la Generalitat de Catalunya, seguit el tràmit d'informació pública, que ha d'ésser de tres mesos."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q157_c87530bb",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 157,
+    "pregunta": "Quin dels aspectes següents no s’inclou a les conclusions sobre les millors tècniques disponibles (MTD) per a la incineració de residus amb l’objectiu de prevenir, controlar i corregir l’impacte ambiental de la instal·lació?",
+    "opcions": [
+      "La implantació d’un pla de gestió de soroll.",
+      "La implantació d’un sistema de gestió ambiental.",
+      "La implantació d’un pretractament dels residus abans de la seva incineració.",
+      "La monitorització en continu de paràmetres clau del procés, tant en les emissions a l’atmosfera com a l’aigua."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q158_26d3fe29",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 158,
+    "pregunta": "Com es denomina el procés d’integració de les consideracions ambientals en la preparació, aprovació i seguiment dels plans i programes que poden tenir un impacte significatiu sobre el medi ambient ?",
+    "opcions": [
+      "Avaluació d’impacte ambiental.",
+      "Estudi ambiental estratègic, també conegut com informe de sostenibilitat.",
+      "Planificació ambiental estratègica de plans i programes.",
+      "Avaluació ambiental de plans i programes, també coneguda com avaluació ambiental estratègica."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q159_0150f8e1",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 159,
+    "pregunta": "Quina és la normativa bàsica que regula l'accés a la informació ambiental?",
+    "opcions": [
+      "La Llei 19/2014, de 18 de juliol, per la qual es regulen els drets d'accés a la informació, participació pública i accés a la justícia en matèria de medi ambient.",
+      "El Conveni d’Aarhus, de 25 de juny de 1998, sobre l’accés a la informació, la participació del públic en la presa de decisions i l’accés a la justícia en matèria de medi ambient.",
+      "La Llei 19/2014, del 29 de desembre, de transparència, accés a la informació pública i bon govern.",
+      "La Llei 27/2006, de 18 de juliol, per la qual es regulen els drets d'accés a la informació, de participació pública i d’accés a la justícia en matèria de medi ambient."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q160_ca335b31",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 160,
+    "pregunta": "Quina d’aquestes activitats està, en tots els casos, exclosa de l’àmbit d’aplicació del Reial decret 117/2003, de 31 de gener, sobre limitació d’emissions de compostos orgànics volàtils degudes a l’ús de dissolvents en determinades activitats?",
+    "opcions": [
+      "Una instal·lació d’extracció d’oli de soia.",
+      "Un taller mecànic on es faci recobriment de vehicles de carretera com a part de la seva reparació.",
+      "Una fàbrica de vernissos.",
+      "Una tintoreria de neteja en sec on s’utilitzin compostos orgànics volàtils per eliminar la brutícia de vestimenta, mobles i similars."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q161_7c4b86b7",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 161,
+    "pregunta": "D’acord amb l’article 32 del Decret 139/2018, de 3 de juliol, sobre els règims d’intervenció ambiental atmosfèrica dels establiments amb activitats potencialment contaminants de l’atmosfera, com s’anomena la xarxa que permet fer el seguiment continu i en temps real d’alguns contaminants de focus emissors i torxes d’establiments industrials?",
+    "opcions": [
+      "Xarxa de Vigilància i Previsió de la Contaminació Atmosfèrica (XVPCA).",
+      "Xarxa de Qualitat Ambiental (XQA).",
+      "Xarxa de Vigilància de Control de l'Aire (XVCA).",
+      "Xarxa d'Emissions Atmosfèriques de Catalunya (XEAC)."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q162_78a30016",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 162,
+    "pregunta": "D’acord amb l’article 28 de la Llei 20/2009, de 4 de desembre, de prevenció i control ambiental de les activitats, en quin termini s'ha de dictar i notificar la resolució del procediment d'autorització ambiental de les activitats susceptibles d'afectar el medi ambient, la seguretat i la salut de les persones?",
+    "opcions": [
+      "12 mesos.",
+      "6 mesos.",
+      "9 mesos.",
+      "8 mesos"
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q163_8713fcb9",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 163,
+    "pregunta": "D’acord amb l’article 3 del Decret 60/2015, de 28 d’abril, sobre les entitats col·laboradores de medi ambient, a quines entitats col·laboradores correspon dur a terme un control ambiental periòdic d’una activitat amb llicència ambiental?",
+    "opcions": [
+      "Un organisme de control ambiental (OCA).",
+      "Una entitat de control de l’àmbit prevenció i control ambiental de les activitats (EC-PCAA).",
+      "Un verificador de l’àmbit de prevenció i control ambiental de les activitats (V- PCAA).",
+      "Una entitat ambiental de control (EAC)."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q164_4a1b488b",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 164,
+    "pregunta": "D’acord amb l’article 12 de la Llei 22/1983, de 21 de novembre, de protecció de l’ambient atmosfèric, quina xarxa permet conèixer l'evolució dels nivells de qualitat de l'aire en el temps i en el territori de Catalunya?",
+    "opcions": [
+      "La Xarxa de Vigilància i Previsió de la Contaminació Atmosfèrica (XVPCA).",
+      "La Xarxa Atmosfèrica de Catalunya (XAC).",
+      "La Xarxa de Vigilància de Control de l'Aire (XVCA).",
+      "La Xarxa d'Emissions Atmosfèriques a Catalunya (XEAC)."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q165_59c7962e",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 165,
+    "pregunta": "Quin contaminant secundari es genera a partir de la contaminació urbana, bàsicament a causa de les emissions del trànsit, i presenta altes concentracions habitualment en zones rurals allunyades de Barcelona?",
+    "opcions": [
+      "Ozó troposfèric.",
+      "Òxids de nitrogen.",
+      "Ozó estratosfèric.",
+      "Hidrocarburs incremats."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q166_b796b77d",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 166,
+    "pregunta": "D’acord amb l’article 2 de la Directriu bàsica de protecció civil per al control i planificació davant el risc d’accidents greus en què intervenen substàncies perilloses, aprovada pel Reial decret 1196/2003, de 19 de setembre, quins són els components del sistema de risc que cal avaluar i parametritzar per analitzar la vulnerabilitat del medi ambient?",
+    "opcions": [
+      "Els sistemes de detecció, les fonts de risc, els receptors vulnerables i els sistemes de control primari.",
+      "Les fonts de risc, els sistemes de control primari, els sistemes de transport i els receptors vulnerables.",
+      "Els sistemes de transport, els sistemes de control primari, emissors vulnerables i els sistemes de detecció.",
+      "Les fonts de risc, els receptors vulnerables, els emissors vulnerables i els sistemes de detecció."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q167_21f502dd",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 167,
+    "pregunta": "D’acord amb l’article 71 de la Llei 20/2009, de 4 de desembre, de prevenció i control ambiental de les activitats, els terminis dels controls ambientals periòdics s’estableixen tenint en compte els terminis determinats en altres declaracions o controls sectorials preceptius. Si no hi ha un termini fixat per a l’autorització o la llicència, s’estableixen, amb caràcter indicatiu, els terminis aplicables per a les activitats subjectes al règim de llicència ambiental (annex II) cada:",
+    "opcions": [
+      "8 anys.",
+      "6 anys.",
+      "4 anys.",
+      "5 anys."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q168_ab7b9c03",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 168,
+    "pregunta": "A qui correspon principalment la implementació dels Objectius de Desenvolupament Sostenible (ODS) de l’Agenda 2030?",
+    "opcions": [
+      "A l’Organització de les Nacions Unides",
+      "A la Unió Europea",
+      "Als Estats membres de l’Organització de les Nacions Unides",
+      "A les organitzacions no governamentals internacionals"
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q169_14260d2b",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 169,
+    "pregunta": "Quins departaments de la Generalitat de Catalunya han d’incorporar els objectius i les accions d’adaptació al canvi climàtic en els seus plans i programes sectorials, d’acord amb la Llei 16/2017, de l’1 d’agost, del canvi climàtic?",
+    "opcions": [
+      "Els departaments que reben finançament europeu per a projectes de sostenibilitat o canvi climàtic.",
+      "Tots els departaments de la Generalitat.",
+      "Només els departaments competents en matèria de medi ambient, energia i territori.",
+      "Els departaments que desenvolupen activitats amb incidència directa sobre el medi natural o susceptibles de generar emissions de gasos amb efecte d’hivernacle."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q170_192c379e",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 170,
+    "pregunta": "Quin és l’instrument de planificació territorial previst per ordenar el desplegament de les energies renovables a Catalunya?",
+    "opcions": [
+      "El Pla territorial sectorial per a la implantació de les energies renovables a Catalunya (PLATER).",
+      "El Pla de referència d’ordenació energètica de Catalunya 2050 (PROENCAT 2050).",
+      "El Decret llei 16/2019, de 26 de novembre, de mesures urgents per a l’emergència climàtica i l’impuls de les energies renovables.",
+      "El Pla integrat d’energia i clima de Catalunya 2030 (PINECCAT30)."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q171_8d465b4e",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 171,
+    "pregunta": "Quina és la norma catalana que regula l’avaluació ambiental de plans i programes a Catalunya?",
+    "opcions": [
+      "La Directiva 2001/42/CE, de 27 de juny de 2001",
+      "La Llei 6/2009, del 28 d’abril",
+      "La disposició addicional vuitena de la Llei 16/2015, del 21 de juliol",
+      "La Llei 21/2013, de 9 de desembre"
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q172_3659bd27",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 172,
+    "pregunta": "D’acord amb la Llei 21/2013, de 9 de desembre, d’avaluació ambiental, quan s’han de sotmetre a una avaluació d’impacte ambiental els projectes inclosos en l’àmbit d’aplicació d’aquesta Llei?",
+    "opcions": [
+      "Abans de la seva autorització o de la presentació d’una declaració responsable o una comunicació prèvia.",
+      "Un cop obtinguda l’autorització administrativa que permet l’execució del projecte.",
+      "Després de presentar la comunicació prèvia a l’ajuntament, quan el promotor ja hagi iniciat l’activitat.",
+      "Durant la fase d’explotació, en el marc del programa de vigilància ambiental del projecte."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q173_2c8202a5",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 173,
+    "pregunta": "D’acord amb la Llei 20/2009, del 4 de desembre, de prevenció i control ambiental de les activitats, quina competència correspon a l’òrgan ambiental de l’Administració de la Generalitat de Catalunya?",
+    "opcions": [
+      "Resoldre les sol·licituds de les activitats sotmeses al règim de llicència ambiental previst a l’annex II.",
+      "Resoldre les sol·licituds d’autorització ambiental de les activitats que s’inclouen a l’annex I.",
+      "Resoldre les obligacions derivades del règim de comunicació de l’annex III.",
+      "Resoldre les sol·licituds relatives a activitats sotmeses a llicència ambiental i al procés de decisió prèvia sobre la necessitat de declaració d’impacte ambiental."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q174_33a63e6d",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 174,
+    "pregunta": "D’acord amb la Llei 12/1985, de 13 de juny, d’espais naturals, quin és l’instrument d’ordenació i gestió dels espais naturals protegits a Catalunya?",
+    "opcions": [
+      "Els plans de protecció del medi natural i del paisatge.",
+      "Els plans especials de gestió dels espais de la xarxa Natura 2000.",
+      "El Pla d’espais d’interès natural.",
+      "Els plans especials urbanístics del medi rural i del medi natural."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q175_68a8823e",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 175,
+    "pregunta": "D’acord amb el Pla d’espais d’interès natural (PEIN), aprovat pel Decret 328/1992, de 14 de desembre, quina de les opcions següents és la correcta?",
+    "opcions": [
+      "El PEIN té caràcter vinculant únicament sobre les polítiques ambientals.",
+      "Les determinacions del PEIN seran vinculants un cop incorporades als instruments de planejament urbanístic, d’acord amb el que estableix el Text refós de la Llei d’urbanisme de Catalunya, aprovat pel Decret legislatiu 1/2010, de 3 d’agost.",
+      "El PEIN és un instrument de planificació ambiental de caràcter no vinculant sobre l’ordenació urbanística.",
+      "El PEIN és un pla territorial sectorial amb caràcter vinculant i determinacions d’obligat compliment."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q176_53ea9629",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 176,
+    "pregunta": "Quina és l’eina oficial per a la recopilació, gestió i difusió de la informació sobre biodiversitat i patrimoni natural a Catalunya?",
+    "opcions": [
+      "El Sistema d’Informació de la Natura de Catalunya (SINATCAT).",
+      "El Programa LIFE+.",
+      "El Sistema d’Informació Territorial de Catalunya (SITCAT).",
+      "L’Observatori del Patrimoni Natural i la Biodiversitat de Catalunya."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q177_8093d656",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 177,
+    "pregunta": "Quines són les 3 principals regions biogeogràfiques que es troben a Catalunya?",
+    "opcions": [
+      "Mediterrània, centreeuropea o eurosiberiana i atlàntica.",
+      "Mediterrània, atlàntica i semidesèrtica.",
+      "Mediterrània, centreeuropea o eurosiberiana i boreoalpina.",
+      "Mediterrània, atlàntica i boreoalpina."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q178_8a6702f6",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 178,
+    "pregunta": "Quins són els models de dades bàsics de representació digital de la informació geoespacial?",
+    "opcions": [
+      "El ràster i el vectorial.",
+      "El topogràfic i el temàtic.",
+      "La latitud, la longitud i l’alçada.",
+      "Els punts, les línies i els polígons."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q179_6e36656c",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 179,
+    "pregunta": "De quins elements es compon un sistema d’informació geogràfica?",
+    "opcions": [
+      "Maquinari, programari, dades, usuaris i marc organitzatiu.",
+      "Maquinari, programari, projecció, dades i usuaris.",
+      "Maquinari, programari, dades, usuaris i internet.",
+      "Maquinari, programari, projecció, dades i internet."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q180_bc07e93e",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 180,
+    "pregunta": "Quines són les tres principals especificacions OpenGIS?",
+    "opcions": [
+      "WCS, WFS i WWW",
+      "WFS, WWW i SHP",
+      "WFS, WMS i WWW",
+      "WMS, WFS i WCS"
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q181_ec65e87a",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 181,
+    "pregunta": "D’acord amb la Llei 8/2020, del 30 de juliol, de protecció i ordenació del litoral, a qui correspon el manteniment de les platges i dels llocs públics de bany en les condicions de neteja, higiene i salubritat adequades?",
+    "opcions": [
+      "Als consells comarcals",
+      "Als ajuntaments",
+      "A l’Estat",
+      "A les diputacions"
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q182_59d0756f",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 182,
+    "pregunta": "El Next Generation EU és un instrument financer extraordinari per a la recuperació d’Europa, amb l’objectiu de fer front als reptes derivats de la pandèmia de la COVID-19 i accelerar els processos de transició ecològica i transformació digital. En quin període s’ha d’executar?",
+    "opcions": [
+      "2021-2029",
+      "2020-2026",
+      "2020-2030",
+      "2021-2027"
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q183_557882a0",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 183,
+    "pregunta": "Segons la informació publicada en el web del Departament d’Interior i Seguretat Pública, quines són les fases d’un incendi forestal?",
+    "opcions": [
+      "Expansiu, fort, estabilitzat i extingit.",
+      "Actiu, estabilitzat, controlat i extingit.",
+      "Fort, estabilitzat, expansiu i extingit.",
+      "Viu, expansiu, controlat i extingit."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q184_78cd1ef0",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 184,
+    "pregunta": "D’acord amb el Reglament del domini públic hidràulic, aprovat pel Reial decret 849/1986, d’11 d’abril, quines són les zones de protecció situades als marges dels terrenys adjacents a les lleres?",
+    "opcions": [
+      "La zona de servitud de 5 metres d’amplada per a l’ús privat i la zona de policia de 50 metres d’amplada en què es condiciona l’ús del sòl i les activitats que s’hi desenvolupen.",
+      "La zona de servitud de 5 metres d’amplada per a l’ús públic i la zona de policia de 50 metres d’amplada en què es condiciona l’ús del sòl i les activitats que s’hi desenvolupen.",
+      "La zona de servitud de 50 metres d’amplada per a l’ús públic i la zona de policia de 100 metres d’amplada en què es condiciona l’ús del sòl i les activitats que s’hi desenvolupen.",
+      "La zona de servitud de 5 metres d’amplada per a l’ús públic i la zona de policia de 100 metres d’amplada en què es condiciona l’ús del sòl i les activitats que s’hi desenvolupen."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q185_54b7c8c3",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 185,
+    "pregunta": "Quin va ser el primer catàleg de paisatge elaborat per l’Observatori del Paisatge que va aprovar el departament de la Generalitat de Catalunya competent en matèria de territori?",
+    "opcions": [
+      "Terres de Lleida",
+      "Comarques de l’Empordà",
+      "Colònies industrials del Llobregat",
+      "Regió metropolitana de Girona"
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q186_e5945b7a",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 186,
+    "pregunta": "Quins són els períodes de retorn dels mapes de perillositat d’inundació del districte de conca fluvial de Catalunya, corresponents al segon cicle de la Directiva 2007/60/CE, del Parlament Europeu i del Consell, de 23 d’octubre de 2007, relativa a l’avaluació i la gestió dels riscos d’inundació?",
+    "opcions": [
+      "De 10, 100 i 500 anys",
+      "De 50, 500 i 1.000 anys",
+      "De 10, 50 i 100 anys",
+      "De 5, 10 i 50 anys"
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q187_e8cc18e6",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 187,
+    "pregunta": "Quins són els tres sistemes bàsics de la realitat territorial que regulen els plans territorials parcials vigents a Catalunya?",
+    "opcions": [
+      "La muntanya, la plana interior i el litoral.",
+      "Els espais oberts, els assentaments urbans i les infraestructures de mobilitat.",
+      "El paisatge, les àrees funcionals i el metabolisme urbà.",
+      "Els espais oberts, els nuclis urbans i les infraestructures de mobilitat, d’aigua i d’energia."
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q188_106417d3",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 188,
+    "pregunta": "D’acord amb el Text refós de la Llei d’urbanisme de Catalunya, aprovat pel Decret legislatiu 1/2010, de 3 d’agost, quina és la finalitat dels plans especials urbanístics autònoms?",
+    "opcions": [
+      "Ordenar els sectors de sòl urbanitzable classificats, però no delimitats pels plans d’ordenació urbanística municipal (POUM).",
+      "Establir les condicions d’edificació en sòl urbà consolidat, incloent paràmetres com alçades, ocupació i alineacions, per tal de regular la forma i volum dels edificis dins d’àmbits ja completament urbanitzats.",
+      "Desenvolupar les prescripcions dels plans d’ordenació urbanística municipal (POUM) per als sectors de sòl urbà consolidat pendent de completar-ne la urbanització o l’ordenació volumètrica.",
+      "Implantar en el territori infraestructures no previstes en el planejament territorial o urbanístic relatives als sistemes urbanístics de comunicacions o d’equipament comunitari de caràcter general o local."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q189_d267b5ee",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 189,
+    "pregunta": "Quin és l’objectiu general dels plans directors urbanístics de revisió de sòls no sostenibles?",
+    "opcions": [
+      "Delimitar i ordenar sectors d’interès supramunicipal per a l’execució directa d’actuacions d’especial rellevància social o econòmica o de característiques singulars.",
+      "Avaluar les reserves de sòl per a les grans infraestructures, com ara xarxes viàries, ferroviàries, hidràuliques, energètiques, portuàries, aeroportuàries, de sanejament i abastament d’aigua, de telecomunicacions, d’equipaments i altres de semblants, per tal de determinar-ne la viabilitat en termes de sostenibilitat.",
+      "Avaluar la sostenibilitat dels sòls d’extensió urbana previstos pels planejaments municipals no adaptats al planejament territorial parcial per adaptar-los als principis i directrius vigents en la legislació i el planejament territorial, i garantir l’adequació paisatgística de l’ordenació i l’edificació dels sòls amb edificació aïllada.",
+      "Desenvolupar el planejament derivat corresponent als planejaments municipals no adaptats al Planejament territorial parcial."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q190_9379d0c1",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 190,
+    "pregunta": "Com es denominen, segons la legislació urbanística, els terrenys que el planejament reserva per a les comunicacions, els equipaments comunitaris i els espais lliures?",
+    "opcions": [
+      "Zones",
+      "Sectors de desenvolupament",
+      "Sistemes",
+      "Àrees de reserva"
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q191_f7cb2a22",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 191,
+    "pregunta": "El Servei de Vigilància i Control de l’Aire del Departament de Territori, Habitatge i Transició Ecològica de la Generalitat de Catalunya detecta que, en una zona de protecció especial (ZPE), dues estacions de mesura han superat durant diverses hores el valor límit horari de NO2 (200 µg/m³). La predicció de qualitat de l’aire per a les properes 24 hores indica que la situació no millorarà.Quina actuació ha d’adoptar l’òrgan competent de la Generalitat de Catalunya?",
+    "opcions": [
+      "Comunicar-ho a l’ajuntament del municipi afectat, atès que la protecció davant la contaminació atmosfèrica és competència municipal.",
+      "Elaborar un pla de millora de la qualitat de l’aire per a la zona afectada.",
+      "Declarar l’episodi ambiental per alta contaminació per diòxid de nitrogen (NO2) i activar el protocol corresponent.",
+      "Activar restriccions de circulació a les zones delimitades de baixes emissions."
+    ],
+    "correcta": 2,
+    "correcta_lletra": "c",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q192_026ce299",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 192,
+    "pregunta": "En una finca situada dins d’un espai de la xarxa Natura 2000 amb presència d’hàbitats d’interès comunitari, el propietari sol·licita un aprofitament forestal. D’acord amb la Directiva 92/43/CEE del Consell, de 21 de maig de 1992, relativa a la conservació dels hàbitats naturals i de la fauna i flora silvestres, què ha de fer l’òrgan substantiu abans d’autoritzar-lo?",
+    "opcions": [
+      "Sotmetre l’actuació a una avaluació adequada dels seus efectes sobre el lloc i autoritzar-la només si no afecta la integritat de l’espai.",
+      "Autoritzar l’actuació condicionada a l’adopció de mesures compensatòries.",
+      "Denegar l’actuació, atesa l’afectació a hàbitats d’interès comunitari.",
+      "Autoritzar l’actuació perquè es tracta d’una activitat tradicional de gestió forestal."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q193_61c31044",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 193,
+    "pregunta": "Formeu part de l’equip tècnic del Centre de Coordinació Operativa de Catalunya (CECAT) de la Generalitat de Catalunya. Al terme municipal del Vendrell hi ha la previsió de precipitacions abundants en les pròximes hores. Un cop s’activa el pla INUNCAT, a qui heu d’alertar i quin tipus de pla ha de posar en funcionament aquesta persona?",
+    "opcions": [
+      "Al president o presidenta del Consell Comarcal del Baix Penedès, qui, d’acord amb la direcció del Pla INUNCAT, ha de posar en marxa el Pla d’acció comarcal (PAC).",
+      "Al conseller o consellera del Departament de la Generalitat de Catalunya competent en matèria d’emergències, qui, d’acord amb la direcció del Pla INUNCAT, ha de posar en marxa el Pla d’emergències de la Generalitat de Catalunya.",
+      "Al o la cap de bombers del municipi afectat, qui, d’acord amb la direcció del Pla INUNCAT, ha de posar en marxa el Pla d’emergències municipal.",
+      "A l’alcalde o alcaldessa, qui, d’acord amb la direcció del pla INUNCAT, ha de posar en marxa el Pla d’actuació municipal (PAM)."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q194_290c509e",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 194,
+    "pregunta": "Un municipi té un sector classificat com a sòl urbanitzable delimitat. L’Ajuntament vol concretar-ne l’ordenació detallada per poder iniciar-ne la urbanització. Quin instrument ha d’aprovar?",
+    "opcions": [
+      "Un pla especial urbanístic",
+      "Un pla parcial urbanístic",
+      "Un pla de millora urbana",
+      "Un pla d’urbanització"
+    ],
+    "correcta": 1,
+    "correcta_lletra": "b",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q195_fd809094",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 195,
+    "pregunta": "D’acord amb la Llei 4/1997, de 20 de maig, de protecció civil de Catalunya, i la normativa que la desenvolupa, quin òrgan és el responsable de l’activació dels plans especials d’emergència i de la coordinació operativa de les actuacions dels serveis implicats en una emergència davant un episodi d’inundacions?",
+    "opcions": [
+      "La Direcció General de l’Agència Catalana de l’Aigua, a través de l’òrgan de conca competent, que aporta informació tècnica i activa els plans específics en matèria hidràulica.",
+      "La Direcció General de Prevenció, Extinció d’Incendis i Salvaments de la Generalitat de Catalunya, com a servei essencial d’intervenció i de resposta immediata.",
+      "La Comissió de Protecció Civil dels consells comarcals afectats.",
+      "La Direcció General de Protecció Civil, a través del Centre de Coordinació Operativa de Catalunya (CECAT)."
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q196_670dd310",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 196,
+    "pregunta": "En el marc de la tramitació d’un pla d’ordenació urbanística municipal, l’òrgan substantiu i l’òrgan ambiental discrepen sobre el contingut de la declaració ambiental estratègica. L’òrgan ambiental considera que el creixement previst és incompatible amb l’Estratègia catalana d’adaptació al canvi climàtic (ESCACC 2021-2030). L’òrgan substantiu defensa que les mesures proposades per l’òrgan promotor són suficients. Quin és l’òrgan competent per resoldre aquesta discrepància?",
+    "opcions": [
+      "El Consell de Govern, a proposta conjunta dels departaments de la Generalitat de Catalunya competents en matèria d’urbanisme i de medi ambient.",
+      "La Comissió Territorial d’Urbanisme, a proposta conjunta dels departaments de la Generalitat de Catalunya competents en matèria d’urbanisme i de medi ambient.",
+      "L’Oficina Catalana del Canvi Climàtic, a proposta conjunta dels departaments de la Generalitat de Catalunya competents en matèria d’urbanisme i de medi ambient.",
+      "L’òrgan substantiu, com a responsable de la supervisió i coherència global del planejament urbanístic, a proposta conjunta dels departaments de la Generalitat de Catalunya competents en matèria d’urbanisme i de medi ambient."
+    ],
+    "correcta": 0,
+    "correcta_lletra": "a",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q197_b2f38b2d",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 197,
+    "pregunta": "Quantes conques hidrogràfiques conformen les conques internes de Catalunya?",
+    "opcions": [
+      "6",
+      "52",
+      "14",
+      "26"
+    ],
+    "correcta": 3,
+    "correcta_lletra": "d",
+    "convocatoria_anterior": true,
+    "explicacio": ""
+  },
+  {
+    "id": "T51_Q198_ddde2189",
+    "tema_num": 51,
+    "tema": "Convocatòries Anteriors",
+    "numero_original": 198,
+    "pregunta": "Per concretar una sèrie d’actuacions d’acord amb el Pla de sequera de l’Agència Catalana de l’Aigua, rebeu l’encàrrec de la persona superior jeràrquica d’identificar quines són les conques o subconques que no gestiona l’agència esmentada. D’acord amb el mapa de les conques hidrogràfiques de Catalunya que publica l’Agència Catalana de l’Aigua, quines són les conques catalanes intercomunitàries?",
+    "opcions": [
+      "Arriu Garona, la Noguera Pallaresa, la Noguera Ribagorçana, el Segre, el Ter i l’Ebre.",
+      "Arriu Garona, la Noguera Pallaresa, la Noguera Ribagorçana, el Segre, l’Ebre i la Sènia.",
+      "Arriu Garona, la Noguera Pallaresa, la Noguera Ribagorçana, la Tordera i la Sènia.",
+      "Arriu Garona, la Noguera Pallaresa, la Noguera Ribagorçana, el Besòs, el Segre i la Sènia."
     ],
     "correcta": 1,
     "correcta_lletra": "b",

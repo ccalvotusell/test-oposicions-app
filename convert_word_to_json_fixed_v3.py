@@ -48,6 +48,7 @@ class LogicalLine:
     bold: bool
     italic: bool
     paragraph_index: int
+    style_name: str = ""
     is_list_item: bool = False
 
 
@@ -105,6 +106,7 @@ def paragraph_to_lines(para, paragraph_index: int) -> list[LogicalLine]:
     """
     ppr = getattr(para._p, "pPr", None)
     is_list_item = ppr is not None and ppr.numPr is not None
+    style_name = para.style.name if para.style is not None else ""
     lines: list[dict[str, Any]] = [{"parts": [], "bold": False, "italic": False}]
 
     for run in para.runs:
@@ -129,6 +131,7 @@ def paragraph_to_lines(para, paragraph_index: int) -> list[LogicalLine]:
                     bold=line["bold"],
                     italic=line["italic"],
                     paragraph_index=paragraph_index,
+                    style_name=style_name,
                     is_list_item=is_list_item,
                 )
             )
@@ -159,6 +162,12 @@ def split_embedded_options(text: str) -> list[str]:
 def is_probable_unnumbered_question(text: str, line: LogicalLine) -> bool:
     if OPTION_RE.match(text):
         return False
+
+    if line.style_name.lower().startswith("heading"):
+        return True
+
+    if line.is_list_item and line.bold and line.italic and len(text.split()) >= 8:
+        return True
 
     if line.bold and text.rstrip().endswith(("?", ":", "...", "…")):
         return True
@@ -196,6 +205,10 @@ def is_probable_unnumbered_question(text: str, line: LogicalLine) -> bool:
 
 def parse_docx(path: Path) -> tuple[list[QuestionDraft], list[str]]:
     doc = Document(path)
+    all_lines: list[LogicalLine] = []
+    for p_index, para in enumerate(doc.paragraphs, start=1):
+        all_lines.extend(paragraph_to_lines(para, p_index))
+
     questions: list[QuestionDraft] = []
     warnings: list[str] = []
 
@@ -210,8 +223,19 @@ def parse_docx(path: Path) -> tuple[list[QuestionDraft], list[str]]:
             questions.append(current)
             current = None
 
-    for p_index, para in enumerate(doc.paragraphs, start=1):
-        for line in paragraph_to_lines(para, p_index):
+    def consecutive_list_items(start_index: int) -> int:
+        count = 0
+        previous_paragraph: int | None = None
+        for candidate in all_lines[start_index:]:
+            if not candidate.is_list_item:
+                break
+            if previous_paragraph is not None and candidate.paragraph_index != previous_paragraph + 1:
+                break
+            count += 1
+            previous_paragraph = candidate.paragraph_index
+        return count
+
+    for line_index, line in enumerate(all_lines):
             text = line.text
 
             theme_match = THEME_RE.match(text)
@@ -276,6 +300,16 @@ def parse_docx(path: Path) -> tuple[list[QuestionDraft], list[str]]:
                 )
                 continue
 
+            # Some previous-exam case studies have bold/italic setup paragraphs
+            # before the actual answer list. They are part of the question text,
+            # not answer options.
+            if current is not None and len(current.options) == 0 and not OPTION_RE.match(text):
+                starts_answer_block = line.is_list_item and consecutive_list_items(line_index) >= 4
+                if not starts_answer_block and (line.bold or line.italic):
+                    current.text = clean_text(current.text + " " + text)
+                    current.question_italic = current.question_italic or line.italic
+                    continue
+
             # If we already have four options and the next line is not a new
             # question, it is probably a wrapped continuation of option d).
             if current is not None and len(current.options) >= 4 and not is_probable_unnumbered_question(text, line):
@@ -287,7 +321,7 @@ def parse_docx(path: Path) -> tuple[list[QuestionDraft], list[str]]:
 
             # Start unnumbered question: common when Word hides the numbering.
             if current is None or len(current.options) >= 4:
-                if is_probable_unnumbered_question(text, line):
+                if current_theme_number is not None and is_probable_unnumbered_question(text, line):
                     flush_current()
                     current_question_counter += 1
                     current = QuestionDraft(
@@ -315,6 +349,10 @@ def parse_docx(path: Path) -> tuple[list[QuestionDraft], list[str]]:
             # wrapped text like '(Cimera de Johannesburg 2002).' from becoming
             # fake questions/options.
             if current is not None and len(current.options) < 4 and line.is_list_item:
+                if len(current.options) == 0 and consecutive_list_items(line_index) < 4:
+                    current.text = clean_text(current.text + " " + text)
+                    current.question_italic = current.question_italic or line.italic
+                    continue
                 current.options.append(OptionDraft(text=text, is_correct=line.bold, is_italic=line.italic))
                 continue
 
